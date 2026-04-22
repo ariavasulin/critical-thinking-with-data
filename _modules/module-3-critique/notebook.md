@@ -9,6 +9,12 @@ permalink: /modules/module-3-critique/notebook/
 
 Use the embedded notebook below or download a copy to run locally in Jupyter.
 
-[Download Module 3 Notebook (.ipynb)]({{ "/assets/notebooks/module-3-notebook.ipynb" | relative_url }})
+<a href='{{ "/assets/notebooks/module-3-notebook.ipynb" | relative_url }}' download="module-3-notebook.ipynb">Download Module 3 Notebook (.ipynb)</a>
 
-{% jupyter_notebook assets/notebooks/module-3-notebook.ipynb %}
+<iframe
+  src="https://nbviewer.org/url/raw.githubusercontent.com/ariavasulin/critical-thinking-with-data/main/assets/notebooks/module-3-notebook.ipynb"
+  width="100%"
+  height="900"
+  style="border: 1px solid #ddd; border-radius: 6px;"
+  loading="lazy"
+></iframe>
