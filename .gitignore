@@ -179,3 +179,4 @@ pids
 *-blx.aux
 *-blx.bib
 *.run.xml
+.claude/
