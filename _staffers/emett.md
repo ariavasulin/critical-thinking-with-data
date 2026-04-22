@@ -1,6 +1,6 @@
 ---
-name: Emett Iskols
-role: Module Lead
+name: Emett Mendel
+role: Module 3 Lead — Du Bois
 ---
 
-Module Lead. *Bio coming soon.*
+*Bio coming soon.*

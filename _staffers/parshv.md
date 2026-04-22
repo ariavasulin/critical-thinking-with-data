@@ -1,6 +1,6 @@
 ---
-name: Parshv Jain
-role: Module Lead
+name: Parshv Patel
+role: Module 1 Lead — Galton
 ---
 
-Module Lead. *Bio coming soon.*
+*Bio coming soon.*

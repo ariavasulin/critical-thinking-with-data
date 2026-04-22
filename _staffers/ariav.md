@@ -1,6 +1,6 @@
 ---
 name: Ariav Asulin
-role: Curriculum Lead
+role: Module 2 Lead — California Sterilization
 ---
 
-Curriculum Lead. *Bio coming soon.*
+*Bio coming soon.*
