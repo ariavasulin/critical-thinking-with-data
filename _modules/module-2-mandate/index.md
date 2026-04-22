@@ -1,11 +1,11 @@
 ---
-title: "Module 2: Sterilization"
+title: "Module 2: Mandate"
 has_children: true
 nav_order: 2
-permalink: /modules/module-2-sterilization/
+permalink: /modules/module-2-mandate/
 ---
 
-# Module 2 — From Theory to Law: California's Forced Sterilization Program
+# Module 2: Mandate — From Theory to Law: California's Forced Sterilization Program
 
 **Sessions 4–6** · **HCE concepts: Classification, Representation, Vulnerability**
 

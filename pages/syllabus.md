@@ -30,7 +30,7 @@ Each module's three sessions are supported by:
 
 ---
 
-## Module 1 — Numbers Never Lie? Galton, Eugenics, and the Birth of Statistics
+## Module 1: Measure — Numbers Never Lie? Galton, Eugenics, and the Birth of Statistics
 
 **Lead: Parshv Patel** · **HCE concepts: Classification, Performativity**
 
@@ -41,7 +41,7 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 - **Inversion Moment:** the 1.08 toggle
 - **HCE Audit #1:** Classification and Performativity applied to the Galton dataset
 
-## Module 2 — From Theory to Law: California's Forced Sterilization Program
+## Module 2: Mandate — From Theory to Law: California's Forced Sterilization Program
 
 **Lead: Ariav Asulin** · **HCE concepts: Classification, Representation, Vulnerability**
 
@@ -52,7 +52,7 @@ Between 1909 and 1952, California forcibly sterilized over 20,000 people using s
 - **Inversion Moment:** the proxy sweep (Spanish-surname false-positive rate)
 - **HCE Audit #2:** applied to the sterilization dataset, with explicit cross-module synthesis comparing Module 1 and Module 2 under Classification and Performativity
 
-## Module 3 — Data as Counter-Narrative: W.E.B. Du Bois and the 1900 Paris Exposition
+## Module 3: Critique — Data as Counter-Narrative: W.E.B. Du Bois and the 1900 Paris Exposition
 
 **Lead: Emett Mendel** · **HCE concepts: Agency, Narratives, Representation**
 

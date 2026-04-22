@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 100" width="250" height="100" role="img" aria-label="Critical Thinking with Data">
+  <g transform="translate(8 8)">
+    <g fill="#FDB515" opacity="0.6">
+      <circle cx="6" cy="68" r="2"></circle><circle cx="16" cy="64" r="2"></circle>
+      <circle cx="26" cy="58" r="2"></circle><circle cx="10" cy="58" r="2"></circle>
+      <circle cx="20" cy="52" r="2"></circle><circle cx="6" cy="48" r="2"></circle>
+      <circle cx="14" cy="44" r="2"></circle><circle cx="58" cy="12" r="2"></circle>
+      <circle cx="66" cy="18" r="2"></circle><circle cx="72" cy="8" r="2"></circle>
+      <circle cx="62" cy="4" r="2"></circle><circle cx="74" cy="22" r="2"></circle>
+    </g>
+    <ellipse cx="42" cy="72" rx="22" ry="3" fill="#000" opacity="0.25"></ellipse>
+    <circle cx="40" cy="40" r="24" fill="#FDB515"></circle>
+    <g fill="#002676">
+      <circle cx="30" cy="35" r="2.4"></circle>
+      <path d="M 26 47 C 26 42, 28 40.5, 30 40.5 C 32 40.5, 34 42, 34 47 Z"></path>
+      <circle cx="40" cy="33" r="2.8"></circle>
+      <path d="M 35 47 C 35 40.5, 37.5 38.8, 40 38.8 C 42.5 38.8, 45 40.5, 45 47 Z"></path>
+      <circle cx="50" cy="35" r="2.4"></circle>
+      <path d="M 46 47 C 46 42, 48 40.5, 50 40.5 C 52 40.5, 54 42, 54 47 Z"></path>
+    </g>
+    <path d="M 24 30 Q 20 40, 24 50" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0.85"></path>
+    <circle cx="40" cy="40" r="26" fill="none" stroke="#E8ECF3" stroke-width="4"></circle>
+    <line x1="59" y1="59" x2="78" y2="78" stroke="#FDB515" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="59" y1="59" x2="78" y2="78" stroke="#E8ECF3" stroke-width="3.2" stroke-linecap="round" opacity="0.35"></line>
+  </g>
+  <text x="96" y="48" font-family="Fraunces, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" font-weight="600" font-size="15" fill="#E8ECF3">Critical Thinking</text>
+  <text x="96" y="68" font-family="Fraunces, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" font-weight="600" font-size="15" fill="#E8ECF3">with Data</text>
+</svg>

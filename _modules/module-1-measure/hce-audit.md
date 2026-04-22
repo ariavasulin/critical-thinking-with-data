@@ -1,8 +1,8 @@
 ---
 title: HCE Audit
-parent: "Module 1: Galton"
+parent: "Module 1: Measure"
 nav_order: 4
-permalink: /modules/module-1-galton/hce-audit/
+permalink: /modules/module-1-measure/hce-audit/
 ---
 
 # HCE Audit — Module 1

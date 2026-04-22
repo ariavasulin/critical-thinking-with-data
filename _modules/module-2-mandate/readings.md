@@ -1,8 +1,8 @@
 ---
 title: Readings
-parent: "Module 2: Sterilization"
+parent: "Module 2: Mandate"
 nav_order: 1
-permalink: /modules/module-2-sterilization/readings/
+permalink: /modules/module-2-mandate/readings/
 ---
 
 # Readings — Module 2

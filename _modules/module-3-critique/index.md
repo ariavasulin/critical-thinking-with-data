@@ -1,11 +1,11 @@
 ---
-title: "Module 3: Du Bois"
+title: "Module 3: Critique"
 has_children: true
 nav_order: 3
-permalink: /modules/module-3-dubois/
+permalink: /modules/module-3-critique/
 ---
 
-# Module 3 — Data as Counter-Narrative: W.E.B. Du Bois and the 1900 Paris Exposition
+# Module 3: Critique — Data as Counter-Narrative: W.E.B. Du Bois and the 1900 Paris Exposition
 
 **Sessions 7–9** · **HCE concepts: Agency, Narratives, Representation**
 

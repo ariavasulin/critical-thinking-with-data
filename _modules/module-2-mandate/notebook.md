@@ -1,11 +1,11 @@
 ---
 title: Notebook
-parent: "Module 1: Galton"
+parent: "Module 2: Mandate"
 nav_order: 3
-permalink: /modules/module-1-galton/notebook/
+permalink: /modules/module-2-mandate/notebook/
 ---
 
-# Notebook — Module 1
+# Notebook — Module 2
 
 {: .warning }
 > This page is under active development. Check back soon.

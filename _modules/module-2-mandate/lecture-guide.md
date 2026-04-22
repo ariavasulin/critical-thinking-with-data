@@ -1,8 +1,8 @@
 ---
 title: Lecture Guide
-parent: "Module 2: Sterilization"
+parent: "Module 2: Mandate"
 nav_order: 2
-permalink: /modules/module-2-sterilization/lecture-guide/
+permalink: /modules/module-2-mandate/lecture-guide/
 ---
 
 # Lecture Guide — Module 2

@@ -1,8 +1,8 @@
 ---
 title: HCE Audit
-parent: "Module 3: Du Bois"
+parent: "Module 3: Critique"
 nav_order: 4
-permalink: /modules/module-3-dubois/hce-audit/
+permalink: /modules/module-3-critique/hce-audit/
 ---
 
 # HCE Audit — Module 3

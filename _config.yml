@@ -34,8 +34,7 @@ authors:
   - parshv
   - emett
 
-# Omit `logo` (falsy) so the course title renders as text in the top-left.
-# logo: /assets/images/... (set when we have a logo image)
+logo: /assets/images/logo.svg
 
 # Favicon (template default; polish in a later plan)
 favicon_ico: "/favicon.png"

@@ -18,9 +18,9 @@ This page consolidates everything a teacher needs to adopt the curriculum. It is
 
 ## Module-by-module teacher resources
 
-- **[Module 1: Galton](../modules/module-1-galton/)** — [Lecture Guide](../modules/module-1-galton/lecture-guide/) · [Readings](../modules/module-1-galton/readings/) · [HCE Audit](../modules/module-1-galton/hce-audit/)
-- **[Module 2: Sterilization](../modules/module-2-sterilization/)** — [Lecture Guide](../modules/module-2-sterilization/lecture-guide/) · [Readings](../modules/module-2-sterilization/readings/) · [HCE Audit](../modules/module-2-sterilization/hce-audit/)
-- **[Module 3: Du Bois](../modules/module-3-dubois/)** — [Lecture Guide](../modules/module-3-dubois/lecture-guide/) · [Readings](../modules/module-3-dubois/readings/) · [HCE Audit](../modules/module-3-dubois/hce-audit/)
+- **[Module 1: Measure](../modules/module-1-measure/)** — [Lecture Guide](../modules/module-1-measure/lecture-guide/) · [Readings](../modules/module-1-measure/readings/) · [HCE Audit](../modules/module-1-measure/hce-audit/)
+- **[Module 2: Mandate](../modules/module-2-mandate/)** — [Lecture Guide](../modules/module-2-mandate/lecture-guide/) · [Readings](../modules/module-2-mandate/readings/) · [HCE Audit](../modules/module-2-mandate/hce-audit/)
+- **[Module 3: Critique](../modules/module-3-critique/)** — [Lecture Guide](../modules/module-3-critique/lecture-guide/) · [Readings](../modules/module-3-critique/readings/) · [HCE Audit](../modules/module-3-critique/hce-audit/)
 
 ## Alignment and credit
 

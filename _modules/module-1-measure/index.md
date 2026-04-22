@@ -1,11 +1,11 @@
 ---
-title: "Module 1: Galton"
+title: "Module 1: Measure"
 has_children: true
 nav_order: 1
-permalink: /modules/module-1-galton/
+permalink: /modules/module-1-measure/
 ---
 
-# Module 1 — Numbers Never Lie? Galton, Eugenics, and the Birth of Statistics
+# Module 1: Measure — Numbers Never Lie? Galton, Eugenics, and the Birth of Statistics
 
 **Sessions 1–3** · **HCE concepts: Classification, Performativity**
 

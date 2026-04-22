@@ -1,11 +1,11 @@
 ---
 title: Notebook
-parent: "Module 3: Du Bois"
+parent: "Module 1: Measure"
 nav_order: 3
-permalink: /modules/module-3-dubois/notebook/
+permalink: /modules/module-1-measure/notebook/
 ---
 
-# Notebook — Module 3
+# Notebook — Module 1
 
 {: .warning }
 > This page is under active development. Check back soon.

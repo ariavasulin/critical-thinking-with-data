@@ -22,4 +22,4 @@ Designed for **grades 10–12**, aligned with California's **AB 101 ethnic studi
 
 ## Get started
 
-[For Teachers](for-teachers/){: .btn .btn-primary .fs-5 .mb-4 .mr-2 } [For Students](modules/module-1-galton/notebook/){: .btn .fs-5 .mb-4 .mr-2 } [About the Course](about/){: .btn .fs-5 .mb-4 }
+[For Teachers](for-teachers/){: .btn .btn-primary .fs-5 .mb-4 .mr-2 } [For Students](modules/module-1-measure/notebook/){: .btn .fs-5 .mb-4 .mr-2 } [About the Course](about/){: .btn .fs-5 .mb-4 }

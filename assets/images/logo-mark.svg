@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Critical Thinking with Data">
+  
+  <ellipse cx="30" cy="54" rx="20" ry="2.6" fill="#000" opacity="0.12"></ellipse>
+  
+  <circle cx="28" cy="28" r="21" fill="#FDB515"></circle>
+  
+  <g fill="#002676">
+    <circle cx="19" cy="24" r="2.2"></circle>
+    <path d="M 15.5 35 C 15.5 30.5, 17.2 29, 19 29 C 20.8 29, 22.5 30.5, 22.5 35 Z"></path>
+    <circle cx="28" cy="22" r="2.6"></circle>
+    <path d="M 23.5 35 C 23.5 28.5, 25.8 26.8, 28 26.8 C 30.2 26.8, 32.5 28.5, 32.5 35 Z"></path>
+    <circle cx="37" cy="24" r="2.2"></circle>
+    <path d="M 33.5 35 C 33.5 30.5, 35.2 29, 37 29 C 38.8 29, 40.5 30.5, 40.5 35 Z"></path>
+  </g>
+  
+  <path d="M 12 18 Q 8 28, 12 38" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" opacity="0.75"></path>
+  
+  <circle cx="28" cy="28" r="23" fill="none" stroke="#002676" stroke-width="3.6"></circle>
+  
+  <line x1="44.5" y1="44.5" x2="58" y2="58" stroke="#FDB515" stroke-width="7" stroke-linecap="round"></line>
+  <line x1="44.5" y1="44.5" x2="58" y2="58" stroke="#002676" stroke-width="3" stroke-linecap="round" opacity="0.35"></line>
+</svg>

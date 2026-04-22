@@ -1,8 +1,8 @@
 ---
 title: Readings
-parent: "Module 1: Galton"
+parent: "Module 1: Measure"
 nav_order: 1
-permalink: /modules/module-1-galton/readings/
+permalink: /modules/module-1-measure/readings/
 ---
 
 # Readings — Module 1
