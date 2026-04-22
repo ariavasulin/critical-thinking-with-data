@@ -1,7 +1,7 @@
 ---
 title: Notebook
 parent: "Module 3: Critique"
-nav_order: 3
+nav_order: 2
 permalink: /modules/module-3-critique/notebook/
 ---
 

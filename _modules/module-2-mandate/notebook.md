@@ -1,7 +1,7 @@
 ---
 title: Notebook
 parent: "Module 2: Mandate"
-nav_order: 3
+nav_order: 2
 permalink: /modules/module-2-mandate/notebook/
 ---
 

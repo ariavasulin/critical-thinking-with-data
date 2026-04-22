@@ -1,7 +1,7 @@
 ---
 title: HCE Audit
 parent: "Module 3: Critique"
-nav_order: 4
+nav_order: 3
 permalink: /modules/module-3-critique/hce-audit/
 ---
 

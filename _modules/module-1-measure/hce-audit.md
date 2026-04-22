@@ -1,7 +1,7 @@
 ---
 title: HCE Audit
 parent: "Module 1: Measure"
-nav_order: 4
+nav_order: 3
 permalink: /modules/module-1-measure/hce-audit/
 ---
 

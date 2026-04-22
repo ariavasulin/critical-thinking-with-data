@@ -22,4 +22,8 @@ Designed for **grades 10–12**, aligned with California's **AB 101 ethnic studi
 
 ## Get started
 
-[For Teachers](for-teachers/){: .btn .btn-primary .fs-5 .mb-4 .mr-2 } [For Students](modules/module-1-measure/notebook/){: .btn .fs-5 .mb-4 .mr-2 } [About the Course](about/){: .btn .fs-5 .mb-4 }
+**Teachers** — start with the [Syllabus](syllabus/) for the nine-session schedule and grading, then read the [Pedagogy](pedagogy/) for the HCE Toolkit spine and recurring audit.
+
+**Students** — jump straight to [Module 1: Measure](modules/module-1-measure/).
+
+[Syllabus](syllabus/){: .btn .btn-primary .fs-5 .mb-4 .mr-2 } [Module 1: Measure](modules/module-1-measure/){: .btn .fs-5 .mb-4 .mr-2 } [About the Course](about/){: .btn .fs-5 .mb-4 }

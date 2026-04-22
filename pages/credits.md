@@ -1,27 +1,40 @@
 ---
-title: References
-nav_order: 7
-permalink: /references/
+title: Credits
+nav_order: 4
+permalink: /credits/
 ---
 
-# References
+# Credits
 
-## Module 1 — Galton
+## Team
+
+{% assign team = site.staffers | sort: "name" %}
+<div class="staff">
+{% for staffer in team %}
+  {{ staffer.content | default: staffer.excerpt }}
+{% endfor %}
+</div>
+
+---
+
+## References
+
+### Module 1 — Measure (Galton)
 
 - **Aubrey Clayton**, *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*, Columbia University Press, 2021. **Required** — Ch. 3 selections on Galton, eugenics, and the birth of inferential statistics.
 - **Prakash Gorroochurn**, "On Galton's Change From 'Reversion' to 'Regression'", *The American Statistician*, 2016. **Required** — close reading of Galton's terminology shift.
 - **James Hanley**, "'Transmuting' Women into Men: Galton's Family Data on Human Stature", *The American Statistician*, 2004. *Recommended* — the 1.08 transmutation in primary-source detail.
 - **HCE Toolkit — *Performativity***. [data104.org/hce](https://data104.org/hce/).
 
-## Module 2 — California Sterilization
+### Module 2 — Mandate (California Sterilization)
 
 - **Novak NL, Lira N, O'Connor KE, Harlow SD, Kardia SLR, Stern AM**. "Disproportionate Sterilization of Latinos Under California's Eugenic Sterilization Program, 1920–1945", *American Journal of Public Health*, 2018. **Required** — the quantitative foundation and the Spanish-surname proxy methodology.
 - **Stern AM, Novak NL, Lira N, O'Connor KE, Harlow SD, Kardia SLR**. "California's Sterilization Survivors: An Estimate and Call for Redress", *American Journal of Public Health*, 2017. **Required** — the call for restorative justice and the estimate of living survivors.
-- **Siobhan B. Somerville / Natalie Lira / Alexandra Minna Stern** and colleagues at the [Sterilization and Social Justice Lab](https://www.sterilizationandsocialjustice.org/). *Primary archival access*.
+- **Natalie Lira, Alexandra Minna Stern**, and colleagues at the [Sterilization and Social Justice Lab](https://www.sterilizationandsocialjustice.org/). *Primary archival access*.
 - **Whatcott, Jess**. *Menace to the Future: A Disability and Queer History of Carceral Eugenics*, Duke University Press, 2024. *Recommended* — Prologue + Intro.
 - **HCE Toolkit — *Classification*, *Representation***. [data104.org/hce](https://data104.org/hce/).
 
-## Module 3 — Du Bois
+### Module 3 — Critique (Du Bois)
 
 - **Hua Hsu**, "What W.E.B. Du Bois Conveyed in His Captivating Infographics", *The New Yorker*, 2018. **Required** — introduces Du Bois's Paris Exposition plates to a general audience.
 - **Ruha Benjamin**, *Race After Technology: Abolitionist Tools for the New Jim Code*, Polity, 2019. **Required** — Ch. 5 on data, design, and resistance.

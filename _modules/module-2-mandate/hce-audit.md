@@ -1,7 +1,7 @@
 ---
 title: HCE Audit
 parent: "Module 2: Mandate"
-nav_order: 4
+nav_order: 3
 permalink: /modules/module-2-mandate/hce-audit/
 ---
 

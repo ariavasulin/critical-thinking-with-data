@@ -1,7 +1,7 @@
 ---
 title: Notebook
 parent: "Module 1: Measure"
-nav_order: 3
+nav_order: 2
 permalink: /modules/module-1-measure/notebook/
 ---
 
