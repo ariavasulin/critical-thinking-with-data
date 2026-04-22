@@ -9,6 +9,8 @@ permalink: /modules/module-3-critique/notebook/
 
 Use the embedded notebook below or download a copy to run locally in Jupyter.
 
+<a href="https://colab.research.google.com/github/ariavasulin/critical-thinking-with-data/blob/main/assets/notebooks/module-3-notebook.ipynb" target="_blank" rel="noopener noreferrer">Open Module 3 Notebook in Google Colab</a>
+
 <button type="button" id="download-module-3-notebook">Download Module 3 Notebook (.ipynb)</button>
 
 <script>
