@@ -29,13 +29,13 @@ div.highlighter-rouge div.highlight {
     border-collapse: collapse;
 }
 
-// fix Note block colors for dark mode
+// Note block accent (Berkeley Founders Rock)
 p.note, blockquote.note {
-  border-left-color: #7253ed; 
+  border-left-color: #3B7EA1;
 
 }
 p.note::before {
-  color: #7253ed;
+  color: #3B7EA1;
   font-weight: bold;
 }
 
@@ -88,7 +88,7 @@ p.note::before {
       color: black;
     }
     &.label-reading {
-      background-color: #8a3ffc;
+      background-color: #3B7EA1;
       color: white;
     }
     &.label-vitamin {
@@ -134,7 +134,7 @@ p.note::before {
   }
   
   .btn-extensions {
-    @include btn-color($white, #6929c4);
+    @include btn-color($white, #002676);
   }
   
   .btn-officehours{
