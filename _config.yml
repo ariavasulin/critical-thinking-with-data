@@ -48,30 +48,22 @@ aux_links:
 berkeley_theme_options:
   show_logo_in_sidebar: false
 
-# Collections for website data
+# Collections
 collections:
+  modules:
+    output: true
+    permalink: /:collection/:path/
   staffers:
+    output: false
     sort_by: name
-  calendars:
-  announcements:
-  labs:
-    output: true
-    permalink: /:collection/:path/
-  lectures:
-    output: true
-    sort_by: number # Date could work...
-    permalink: /lectures/:path/
-  hw:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  discussions:
-    output: true
-    permalink: /:collection/:path/
 
-# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
+# JTD needs an explicit collection-nav config to render collection items in the sidebar.
+just_the_docs:
+  collections:
+    modules:
+      name: Modules
+      nav_fold: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -79,33 +71,18 @@ plugins:
   - jekyll-include-cache
   - jekyll-jupyter-notebook
 
-# Default layouts for each collection type
+# Default frontmatter per collection / path
 defaults:
   - scope:
       path: ''
-      type: labs
     values:
-      layout: lab
-      nav_exclude: true
+      layout: page
   - scope:
       path: ''
-      type: discussions
+      type: modules
     values:
-      layout: discussion
-      nav_exclude: true
-      subpath: 'assets/discussions/'
-  - scope:
-      path: ''
-      type: hw
-    values:
-      layout: hw
-      nav_exclude: true
-  - scope:
-      path: ''
-      type: projects
-    values:
-      layout: project
-      nav_exclude: true
+      layout: page
+      nav_exclude: false
   - scope:
       path: '_staffers'
       type: staffers
@@ -114,22 +91,6 @@ defaults:
       height: 300
       subpath: '/assets/images/'
       width: 300
-  - scope:
-      path: ''
-      type: calendars
-    values:
-      layout: calendar
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
-  - scope:
-      path: ''
-      type: lectures
-    values:
-      layout: lecture
-      time: 00:00 # Default release time of lectures is currently set to 12:00 AM
 
 
 ######################################################################
