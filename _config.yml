@@ -183,3 +183,4 @@ exclude:
   - script/
   - spec/
   - node_modules/
+  - assets/notebooks/*.ipynb
