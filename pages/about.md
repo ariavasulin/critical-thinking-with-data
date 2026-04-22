@@ -6,17 +6,6 @@ permalink: /about/
 
 # About the Course
 
-|   |   |
-|---|---|
-| **Authors** | Ariav Asulin, Parshv Patel, Emett Mendel |
-| **Audience** | Grades 10–12 |
-| **Duration** | Nine ~50-minute sessions (three per module; roughly 8 hours of classroom time) |
-| **Prerequisites** | None. No prior programming or statistics required. Pairs well as enrichment for an AP Statistics sequence but does not depend on it. |
-| **Alignment** | California AB 101 Ethnic Studies graduation requirement; candidate for UC/CSU Area C mathematics credit |
-| **Designed to precede** | UC Berkeley's Data 8 (Foundations of Data Science), Data C104/C4AC (Human Contexts and Ethics of Data), and the Data 100 sequence |
-
----
-
 ## Course Description
 
 The foundational tools of modern statistics — regression, correlation, hypothesis testing — were not discovered in a neutral laboratory. They were invented in direct service of the eugenics movement, a scientific-political project that translated racial ideology into state policy. Francis Galton coined "eugenics" in 1883 and invented regression. His protégé Karl Pearson developed the correlation coefficient and the chi-squared test while editing the *Annals of Eugenics*. Ronald Fisher pioneered significance testing as a working eugenicist. These tools traveled from Victorian England to the United States, where they provided the statistical scaffolding for compulsory sterilization laws that, between 1909 and 1952, forcibly sterilized over 20,000 Californians — disproportionately Latina, Black, Indigenous, and disabled.
@@ -90,6 +79,19 @@ What students will be able to do after this course:
 - **Course overview** (this site)
 - **Team reflection** (~1,000 words) on the specific challenges and opportunities of using data for projects of justice
 - **Individual reflections** (300–500 words each) from each team member
+
+---
+
+## At a Glance
+
+|   |   |
+|---|---|
+| **Authors** | Ariav Asulin, Parshv Patel, Emett Mendel |
+| **Audience** | Grades 10–12 |
+| **Duration** | Nine ~50-minute sessions (three per module; roughly 8 hours of classroom time) |
+| **Prerequisites** | None. No prior programming or statistics required. Pairs well as enrichment for an AP Statistics sequence but does not depend on it. |
+| **Alignment** | California AB 101 Ethnic Studies graduation requirement; candidate for UC/CSU Area C mathematics credit |
+| **Designed to precede** | UC Berkeley's Data 8 (Foundations of Data Science), Data C104/C4AC (Human Contexts and Ethics of Data), and the Data 100 sequence |
 
 ---
 
