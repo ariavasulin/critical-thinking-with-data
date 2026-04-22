@@ -6,17 +6,14 @@ permalink: /about/
 
 # About the Course
 
-**Authors:** Ariav Asulin, Parshv Patel, Emett Mendel
-
-**Audience:** Grades 10–12
-
-**Duration:** Nine ~50-minute sessions (three per module; roughly 8 hours of classroom time)
-
-**Prerequisites:** None. No prior programming or statistics required. Pairs well as enrichment for an AP Statistics sequence but does not depend on it.
-
-**Alignment:** California AB 101 Ethnic Studies graduation requirement; candidate for UC/CSU Area C mathematics credit
-
-**Designed to precede:** UC Berkeley's Data 8 (Foundations of Data Science), Data C104/C4AC (Human Contexts and Ethics of Data), and the Data 100 sequence
+|   |   |
+|---|---|
+| **Authors** | Ariav Asulin, Parshv Patel, Emett Mendel |
+| **Audience** | Grades 10–12 |
+| **Duration** | Nine ~50-minute sessions (three per module; roughly 8 hours of classroom time) |
+| **Prerequisites** | None. No prior programming or statistics required. Pairs well as enrichment for an AP Statistics sequence but does not depend on it. |
+| **Alignment** | California AB 101 Ethnic Studies graduation requirement; candidate for UC/CSU Area C mathematics credit |
+| **Designed to precede** | UC Berkeley's Data 8 (Foundations of Data Science), Data C104/C4AC (Human Contexts and Ethics of Data), and the Data 100 sequence |
 
 ---
 
