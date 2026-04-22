@@ -9,6 +9,6 @@ permalink: /modules/module-3-critique/notebook/
 
 Use the embedded notebook below or download a copy to run locally in Jupyter.
 
-[Download Module 3 Notebook (.ipynb)]({{ "/modules/module-3-critique/files/Module%203%20%28Retard%20Version%29%20.ipynb" | relative_url }})
+[Download Module 3 Notebook (.ipynb)]({{ "/modules/module-3-critique/files/module-3-notebook.ipynb" | relative_url }})
 
-{% jupyter_notebook "_modules/module-3-critique/files/Module 3 (Retard Version) .ipynb" %}
+{% jupyter_notebook "_modules/module-3-critique/files/module-3-notebook.ipynb" %}
