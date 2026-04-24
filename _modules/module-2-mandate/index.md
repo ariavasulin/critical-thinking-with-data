@@ -20,7 +20,7 @@ The module introduces conditional probability, rate ratios, and the chi-squared 
 ## Get started
 
 - **For teachers** → [Lecture Guide](./lecture-guide/) *(in progress)*
-- **For students** → [Notebook](./notebook/) *(in progress)*
+- **For students** → [Notebook](./notebook/)
 - **HCE Audit** → [Audit prompt and rubric](./hce-audit/) *(in progress)*
 
 ## Required readings
