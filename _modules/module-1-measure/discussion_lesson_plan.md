@@ -1,3 +1,10 @@
+---
+title: Discussion Lesson Plan
+parent: "Module 1: Measure"
+nav_order: 1
+permalink: /modules/module-1-measure/discussion_lesson_plan/
+---
+
 # Module 1 Discussion Questions and Lesson Plan
 
 ---
