@@ -17,7 +17,7 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 
 ## Get started
 
-- **For teachers** → [Lecture Guide](./lecture-guide/), [Discussion Plan](./discussion_lesson_plan.md/)
+- **For teachers** → [Lecture Guide](./lecture-guide/), [Discussion Plan](modules/module-1-measure/discussion_lesson_plan.md)
 - **For students** → [Notebook](./notebook/)
 - **Readings** → [Reading 1](./reading1_guide.md/), [Reading 2](./reading2_guide.md/)
 - **HCE Audit** → [Audit prompt and rubric](./hce-audit/) 
