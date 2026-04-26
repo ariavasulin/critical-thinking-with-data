@@ -1,5 +1,5 @@
 ---
-title: Reading 2 Guide
+title: Reading 1 Guide
 parent: "Module 1: Measure"
 nav_order: 1
 permalink: /modules/module-1-measure/reading1_guide/
