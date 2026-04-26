@@ -1,3 +1,10 @@
+---
+title: Reading 2 Guide
+parent: "Module 1: Measure"
+nav_order: 1
+permalink: /modules/module-1-measure/reading1_guide/
+---
+
 # Reading Guide 1: "How Eugenics Shaped Statistics"
 
 ## Source Information
