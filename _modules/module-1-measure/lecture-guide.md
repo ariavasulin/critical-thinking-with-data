@@ -159,7 +159,7 @@ Students examine Galton's transmutation of female heights, toggle the 1.08 multi
 
 ## Required readings
 
-- Aubrey Clayton, *Bernoulli's Fallacy*, Ch. 3 selections
-- Prakash Gorroochurn, "On Galton's Change From 'Reversion' to 'Regression'"
+- Aubrey Clayton, [*"How Eugenics Shaped Statistics"*](./reading1_guide.md/)
+- Greenwood, C. J., Bhavnani, R., & Harmon, K., [*"Teaching the Difficult Past of Statistics"*](./reading2_guide.md/)
 
 *Recommended:* James Hanley, "'Transmuting' Women into Men"; HCE Toolkit — [Performativity](https://data104.org/hce/).
