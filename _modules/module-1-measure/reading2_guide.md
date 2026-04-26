@@ -1,3 +1,10 @@
+---
+title: Reading 2 Guide
+parent: "Module 1: Measure"
+nav_order: 1
+permalink: /modules/module-1-measure/reading2_guide/
+---
+
 # Reading Guide 2: "Teaching the Difficult Past of Statistics"
 
 ## Primary Source
