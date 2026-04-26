@@ -79,7 +79,27 @@ def update_notebook(file_path, base_raw, required_files, csv_replacements):
 update_notebook(
     'assets/notebooks/module-1-notebook.ipynb',
     'https://raw.githubusercontent.com/ariavasulin/critical-thinking-with-data/main/assets/notebooks/module-1',
-    {'data/Galton_Family_Heights.csv': ''},
+    {
+        'data/Galton_Family_Heights.csv': '',
+        'figures/Francis_Galton2.jpg': '',
+        'figures/Francis_Galton_1850s.jpg': '',
+        'figures/Sir_Francis_Galton,_1890s.jpg': '',
+        'figures/child_height_distributions.png': '',
+        'figures/correlation_heatmap.png': '',
+        'figures/correlation_heatmap_nb.png': '',
+        'figures/eda_combined_display.png': '',
+        'figures/height_boxplots.png': '',
+        'figures/module1_summary_display.png': '',
+        'figures/module1_summary_figure.png': '',
+        'figures/regression_to_mean.png': '',
+        'figures/regression_to_mean_nb.png': '',
+        'figures/residual_analysis.png': '',
+        'figures/residual_analysis_nb.png': '',
+        'figures/scatter_regression_plots.png': '',
+        'figures/scatter_regression_plots_nb.png': '',
+        'figures/transmutation_comparison.png': '',
+        'figures/transmutation_comparison_nb.png': '',
+    },
     {'Galton_Family_Heights.csv': 'data/Galton_Family_Heights.csv'}
 )
 
