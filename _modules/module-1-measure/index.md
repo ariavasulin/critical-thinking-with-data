@@ -17,15 +17,15 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 
 ## Get started
 
-- **For teachers** → [Lecture Guide](./lecture-guide/), [Discussion Plan](./discussion_lesson_plan.md/)
+- **For teachers** → [Lecture Guide](./lecture-guide/)
 - **For students** → [Notebook](./notebook/)
-- **Readings** → [Reading 1](./reading1_guide.md/), [Reading 2](./reading2_guide.md/)
-- **HCE Audit** → [Audit prompt and rubric](./hce-audit/) 
+- **HCE Audit** → [Audit prompt and rubric](./hce-audit/)
+- **Extra** → [Discussion Plan](./extra/discussion_lesson_plan/), [Lecture Outline](./extra/lecture_outline/), [Reading 1](./extra/reading1_guide/), [Reading 2](./extra/reading2_guide/)
 
 ## Required readings
 
-- Aubrey Clayton, [*"How Eugenics Shaped Statistics"*](./reading1_guide.md/)
-- Greenwood, C. J., Bhavnani, R., & Harmon, K., [*"Teaching the Difficult Past of Statistics"*](./reading2_guide.md/)
+- Aubrey Clayton, [*"How Eugenics Shaped Statistics"*](./extra/reading1_guide/)
+- Greenwood, C. J., Bhavnani, R., & Harmon, K., [*"Teaching the Difficult Past of Statistics"*](./extra/reading2_guide/)
 
 *Recommended:* James Hanley, "'Transmuting' Women into Men"; HCE Toolkit — [Performativity](https://data104.org/hce/)
 

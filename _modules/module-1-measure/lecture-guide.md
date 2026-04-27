@@ -159,7 +159,7 @@ Students examine Galton's transmutation of female heights, toggle the 1.08 multi
 
 ## Required readings
 
-- Aubrey Clayton, [*"How Eugenics Shaped Statistics"*](./reading1_guide.md/)
-- Greenwood, C. J., Bhavnani, R., & Harmon, K., [*"Teaching the Difficult Past of Statistics"*](./reading2_guide.md/)
+- Aubrey Clayton, [*"How Eugenics Shaped Statistics"*](./extra/reading1_guide/)
+- Greenwood, C. J., Bhavnani, R., & Harmon, K., [*"Teaching the Difficult Past of Statistics"*](./extra/reading2_guide/)
 
 *Recommended:* James Hanley, "'Transmuting' Women into Men"; HCE Toolkit — [Performativity](https://data104.org/hce/).

@@ -1,3 +1,11 @@
+---
+title: Lecture Outline
+parent: Extra Resources
+grand_parent: "Module 1: Measure"
+nav_order: 1
+permalink: /modules/module-1-measure/extra/lecture_outline/
+---
+
 # Lecture Outline: "Where Did Statistics Come From? Galton, Eugenics, and the Hidden History of Data Science"
 
 **Format:** 30-40 minute teacher-led lecture, paired with slides
