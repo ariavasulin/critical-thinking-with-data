@@ -75,7 +75,22 @@ In 1900 — the same year Karl Pearson was inventing the chi-squared test studen
 
 **HCE Audits** (500–800 words each) are graded on the published rubric. They are due at the end of each module and anchor the transition to the next. The Module 2 audit includes an explicit cross-module synthesis component.
 
-**Reading reflections** (150–250 words each) are short written responses to one reading at a time, submitted before the class session that uses that reading. The format follows the Data C4AC weekly reflection model.
+**Reading reflections** (150–250 words each) are short written responses to one reading at a time, submitted before the class session that uses that reading. The format follows the Data C4AC weekly reflection model:
+
+> ### The Weekly Reflection Model
+>
+> **Part 1 — Response to specific readings**
+>
+> For the two readings assigned each week, please complete the following four components (#1–4):
+>
+> 1. **Quotation:** Select one substantive quote from the reading that you believe requires explanation or elucidation. Copy the quote and then restate the author's point as you understand it, including who the author is responding to as well as what the author is arguing for and against.
+> 2. **Argument:** In at least 3 sentences, describe the reading’s main arguments with respect to its relevance for the course and the week’s sessions. How does the quotation selected support or complicate this argument? (Note: this is not just a summary of key points, but a synthetic account of the text's argument. Write in full sentences, not bullet points.)
+> 3. **Question:** Form a clear question that you think is not satisfactorily answered by the text. The question should be a question of interpretation, inquiry, or method, not simply a question of fact.
+> 4. **Connection:** Based on that question, write a critical reflection in which you discuss either a shortcoming of the text or a way in which the argument might be extended. Then, write a brief paragraph connecting this reading to the other readings we have read in the course or themes and concepts discussed in lecture.
+>
+> **Part 2 — Weekly synthesis**
+>
+> Write one paragraph discussing your major takeaways from the week's material (lectures and readings). How did the material connect to your previous knowledge of or experience with the topics presented?
 
 **Notebook completion** is scored on whether each code cell was run and each reflection prompt inside the notebook was answered; the notebook is a workbook, not a performance.
 

@@ -40,19 +40,17 @@ Claims without evidence do not earn above developing-level scores.
 For **Part A** and **Part B**, answer each question in 2-4 sentences:
 
 1. **Classification**  
-   What categories structure this representation? Who set those categories? What is counted, and what is absent?
+   What categories does this representation use? Who decided the categories? What gets counted, and what is absent or invisible?
 2. **Performativity**  
-   What does this representation claim to describe? What does it bring into being by describing in this way?
+   What does this representation set out to describe? What does it bring into being through the act of describing?
 3. **Representation**  
-   How does this chart stand in for people or social life? What does it make visible, and what does it flatten or erase?
+   How does this representation "stand for" the people in it? Whose work went into the representation? What does the representation do that the people couldn't?
 4. **Agency**  
-   Who had the power to produce this representation? Whose agency is amplified, and whose is constrained?
+   Who produced this representation? Whose agency does it amplify, and whose does it constrain?
 
 For **Part C** (5-8 sentences):
 
-- What is the most important difference between the argument made by Du Bois's plate and the argument made by your counter-visualization?
-- Which design choice drives that difference?
-- What ethical tradeoff is introduced by your design choice?
+Compare your audit of Du Bois's plate (Part A) to the audit of your own counter-visualization (Part B). What stayed the same? What changed? What did you inherit from Du Bois, and what did you deliberately change? What ethical tradeoff is introduced by your design choice?
 
 ## Scoring rubric
 

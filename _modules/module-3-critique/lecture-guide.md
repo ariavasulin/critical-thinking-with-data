@@ -160,7 +160,7 @@ Students finalize a counter-visualization and complete HCE Audit #3 using eviden
 
 ## Required readings
 
-- Hua Hsu, ["What W.E.B. Du Bois Conveyed in His Captivating Infographics"](https://www.newyorker.com/culture/culture-desk/what-w-e-b-du-bois-conveyed-in-his-captivating-infographics), *The New Yorker*, 2018
+- Hua Hsu, ["What W.E.B. Du Bois Conveyed in His Captivating Infographics"](https://www.newyorker.com/books/page-turner/what-web-du-bois-conveyed-in-his-captivating-infographics), *The New Yorker*, 2018
 - Ruha Benjamin, [*Race After Technology*](https://www.ruhabenjamin.com/race-after-technology), Ch. 5
 
-*Recommended:* Battle-Baptiste & Rusert (eds.), *W.E.B. Du Bois's Data Portraits*; HCE Toolkit — [Agency, Narratives](https://data104.org/hce/).
+*Recommended:* Battle-Baptiste & Rusert (eds.), [*W.E.B. Du Bois's Data Portraits*](https://doingsts.com/cms/wp-content/uploads/2020/01/W.-E.-B.-Du-Boiss-Data-Portrai-Britt-Rusert-2.pdf); HCE Toolkit — [Agency, Narratives](https://data104.org/hce/).
