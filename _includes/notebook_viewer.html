@@ -1,0 +1,42 @@
+<div id="notebook-container" style="padding: 20px; background: white; border: 1px solid #ddd; border-top: 0; border-radius: 0 0 6px 6px;">
+  <div id="notebook-viewer">Loading notebook...</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/prismjs/prism.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/notebookjs/notebook.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism.css">
+
+<style>
+  .nb-notebook { line-height: 1.5; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"; }
+  .nb-cell { margin-bottom: 20px; }
+  .nb-raw-cell { white-space: pre-wrap; }
+  .nb-markdown-cell { padding: 10px 0; }
+  .nb-code-cell { background: #f6f8fa; border: 1px solid #ddd; border-radius: 3px; }
+  .nb-input { padding: 10px; border-bottom: 1px solid #ddd; }
+  .nb-output { padding: 10px; background: white; }
+  .nb-stdout, .nb-stderr { white-space: pre-wrap; font-family: monospace; font-size: 13px; }
+  .nb-image-output img { max-width: 100%; height: auto; }
+</style>
+
+<script>
+  (function() {
+    const nbUrl = "{{ include.url }}";
+    const container = document.getElementById('notebook-viewer');
+    
+    fetch(nbUrl)
+      .then(response => response.json())
+      .then(data => {
+        const notebook = nb.parse(data);
+        const rendered = notebook.render();
+        container.innerHTML = '';
+        container.appendChild(rendered);
+        // Highlight code
+        if (window.Prism) Prism.highlightAllUnder(container);
+      })
+      .catch(err => {
+        container.innerHTML = '<p style="color: red;">Error loading notebook: ' + err.message + '</p>';
+        console.error(err);
+      });
+  })();
+</script>

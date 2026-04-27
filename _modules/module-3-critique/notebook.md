@@ -33,14 +33,4 @@ Use the embedded notebook below or download a copy to run locally in Jupyter.
   })();
 </script>
 
-<div style="overflow: hidden; border: 1px solid #ddd; border-radius: 6px;">
-  <iframe
-    src="{{ site.baseurl }}/assets/notebooks/module-3-notebook.html"
-    width="100%"
-    height="960"
-    style="border: 0;"
-    loading="lazy"
-    sandbox="allow-same-origin allow-scripts"
-    referrerpolicy="no-referrer"
-  ></iframe>
-</div>
+{% include notebook_viewer.html url="{{ site.baseurl }}/assets/notebooks/module-3-notebook.ipynb" %}
