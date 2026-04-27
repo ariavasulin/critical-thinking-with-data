@@ -8,12 +8,80 @@ permalink: /credits/
 
 ## Team
 
+<!-- 
+  TO UPDATE PHOTOS:
+  1. Save headshots as 'parshv.jpg', 'ariav.jpg', and 'emett.jpg'
+  2. Upload them to the 'assets/images/team/' directory
+-->
+
 {% assign team = site.staffers | sort: "name" %}
-<div class="staff">
-{% for staffer in team %}
-  {{ staffer.content | default: staffer.excerpt }}
-{% endfor %}
+<div class="team-grid">
+  {% for staffer in team %}
+  <div class="team-member">
+    <div class="member-image">
+      <img src="{{ staffer.image | default: '/assets/images/team/placeholder.jpg' | relative_url }}" alt="{{ staffer.name }}">
+    </div>
+    <div class="member-info">
+      <h3>{{ staffer.name }}</h3>
+      <p class="role">{{ staffer.role }}</p>
+      <div class="bio">
+        {{ staffer.content }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
 </div>
+
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+.team-member {
+  background: #fdfdfd;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+.team-member:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
+.member-image {
+  height: 200px;
+  background: #f0f0f0;
+  overflow: hidden;
+}
+.member-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.member-info {
+  padding: 1.5rem;
+}
+.member-info h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.25rem;
+  color: #222;
+}
+.member-info .role {
+  font-weight: 600;
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+.member-info .bio {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #444;
+}
+</style>
 
 ---
 
