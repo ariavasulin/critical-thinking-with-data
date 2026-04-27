@@ -18,7 +18,7 @@ Use the embedded notebook below or download a copy to run locally in Jupyter.
     const btn = document.getElementById("download-module-1-notebook");
     if (!btn) return;
     btn.addEventListener("click", async function () {
-      const url = "https://raw.githubusercontent.com/ariavasulin/critical-thinking-with-data/main/assets/notebooks/module-1-notebook.ipynb";
+      const url = "{{ site.baseurl }}/assets/notebooks/module-1-notebook.ipynb";
       const response = await fetch(url, { mode: "cors", cache: "no-store" });
       const blob = await response.blob();
       const objectUrl = URL.createObjectURL(blob);
@@ -35,10 +35,10 @@ Use the embedded notebook below or download a copy to run locally in Jupyter.
 
 <div style="overflow: hidden; border: 1px solid #ddd; border-radius: 6px;">
   <iframe
-    src="https://nbviewer.org/url/raw.githubusercontent.com/ariavasulin/critical-thinking-with-data/main/assets/notebooks/module-1-notebook.ipynb?flush_cache=true"
+    src="{{ site.baseurl }}/assets/notebooks/module-1-notebook.html"
     width="100%"
     height="960"
-    style="border: 0; margin-top: -72px;"
+    style="border: 0;"
     loading="lazy"
     sandbox="allow-same-origin allow-scripts"
     referrerpolicy="no-referrer"

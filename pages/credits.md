@@ -36,8 +36,8 @@ permalink: /credits/
 
 ### Module 3 — Critique (Du Bois)
 
-- **Hua Hsu**, "What W.E.B. Du Bois Conveyed in His Captivating Infographics", *The New Yorker*, 2018. **Required** — introduces Du Bois's Paris Exposition plates to a general audience.
-- **Ruha Benjamin**, *Race After Technology: Abolitionist Tools for the New Jim Code*, Polity, 2019. **Required** — Ch. 5 on data, design, and resistance.
+- **Hua Hsu**, ["What W.E.B. Du Bois Conveyed in His Captivating Infographics"](https://www.newyorker.com/culture/culture-desk/what-w-e-b-du-bois-conveyed-in-his-captivating-infographics), *The New Yorker*, 2018. **Required** — introduces Du Bois's Paris Exposition plates to a general audience.
+- **Ruha Benjamin**, [*Race After Technology: Abolitionist Tools for the New Jim Code*](https://www.ruhabenjamin.com/race-after-technology), Polity, 2019. **Required** — Ch. 5 on data, design, and resistance.
 - **Whitney Battle-Baptiste & Britt Rusert** (eds.), *W.E.B. Du Bois's Data Portraits: Visualizing Black America*, Princeton Architectural Press, 2018. *Recommended* — full-color facsimiles of all 63 Paris Exposition plates with scholarly introductions.
 - **Anthony Starks** — [#DuBoisChallenge](https://github.com/ajstarks/dubois-data-portraits). Reconstructed CSV data for the Paris Exposition plates.
 - **HCE Toolkit — *Agency*, *Narratives***. [data104.org/hce](https://data104.org/hce/).

@@ -15,13 +15,11 @@ In 1900 — the same year Karl Pearson was inventing the chi-squared test studen
 
 The module refuses the easy story that "community data" is automatically liberatory: Du Bois made strategic omissions and centered metrics legible to a white European audience. Students sit with that tension with the HCE vocabulary and the technical skill to do so rigorously.
 
-*Full session-by-session teacher framing coming soon. See [Syllabus](../../syllabus/) and [Pedagogy](../../pedagogy/).*
+## Training resources
 
-## Get started
-
-- **For teachers** → [Lecture Guide](./lecture-guide/) *(in progress)*
-- **For students** → [Notebook](./notebook/) *(in progress)*
-- **HCE Audit** → [Audit prompt and rubric](./hce-audit/) *(in progress)*
+- **For teachers** → [Lecture Guide](./lecture-guide/)
+- **For students** → [Notebook](./notebook/)
+- **HCE Audit** → [Audit prompt and rubric](./hce-audit/)
 
 ## Required readings
 

@@ -13,9 +13,9 @@ This guide covers three ~50-minute sessions (Hook → Core → Close) and includ
 
 ## Module arc at a glance
 
-- **Session 7 (Hook + Setup):** 1900 as a dual moment (Pearson and Du Bois); introduce Agency and Narratives.
-- **Session 8 (Core Technical):** Recreate Plate 25; run the defaults inversion; compare rhetorical effects.
-- **Session 9 (Close):** Student counter-visualization and formal HCE Audit #3 using all four questions.
+- **Session 7 (Hook + Setup):** 1900 as a dual moment (Pearson and Du Bois); The Data and the Exhibit (Parts 1 & 2).
+- **Session 8 (Core Technical):** Recreate Plate 25; Plate 25 Defaults Inversion; Counter-Narrative vs. Eugenic Propaganda (Parts 3, 4, & 5).
+- **Session 9 (Close):** Student Counter-Visualization and formal HCE Audit #3 (Parts 6, 7 & 8).
 
 ## Learning goals
 
@@ -36,8 +36,9 @@ Students understand why Du Bois's exhibit is a data intervention, not just "good
 ### Suggested flow (~50 min)
 
 - **Hook (8 min):** Project one Du Bois plate with no caption. Ask: "What claim does this image make before we read any title?"
-- **Context mini-lecture (12 min):** 1900 as dual moment: Pearson formalizes inferential statistics while Du Bois stages a counter-narrative in Paris.
-- **Close reading in pairs (15 min):** Students annotate one assigned plate: data source clues, audience clues, argument clues.
+- **Context mini-lecture (10 min):** 1900 as dual moment: Pearson formalizes inferential statistics (Module 2) while Du Bois stages a counter-narrative in Paris.
+- **Data orientation (5 min):** Quick look at Starks's reconstructed CSV (Part 2) — reading data as argument.
+- **Close reading in pairs (12 min):** Students annotate one assigned plate: data source clues, audience clues, argument clues.
 - **Whole-class synthesis (10 min):** Build class definition of Agency and Narratives in this module.
 - **Exit ticket (5 min):** "One design choice in this plate that acts like evidence is ___ because ___."
 
@@ -75,10 +76,10 @@ Students recreate Plate 25 in Python, then re-render with library defaults to ob
 ### Suggested flow (~50 min)
 
 - **Do now (5 min):** Predict which chart decisions will be hardest to replicate and why.
-- **Notebook build (25 min):** Step-by-step recreation of Plate 25 (data prep, layout, palette, annotations).
-- **Inversion run (10 min):** Toggle to default `matplotlib` style (palette, axis treatment, labeling density).
-- **Compare and discuss (8 min):** "Same data, different argument" quickwrite and pair-share.
-- **Wrap (2 min):** Name one design choice students will intentionally control in Session 9.
+- **Notebook build (20 min):** Step-by-step recreation of Plate 25 (Part 3: palette, layout, annotations).
+- **Inversion run (8 min):** Toggle to default `matplotlib` style (Part 4) and observe the "evaporation" of rhetorical force.
+- **The Propaganda Contrast (10 min):** Side-by-side comparison of Du Bois vs. Kallikak (Part 5): "Classification" as a choice with consequences.
+- **Wrap (7 min):** Discussion: "Same data, different argument." Pair-share on one design choice to control in Session 9.
 
 ### Board plan
 
@@ -159,7 +160,7 @@ Students finalize a counter-visualization and complete HCE Audit #3 using eviden
 
 ## Required readings
 
-- Hua Hsu, "What W.E.B. Du Bois Conveyed in His Captivating Infographics", *The New Yorker*, 2018
-- Ruha Benjamin, *Race After Technology*, Ch. 5
+- Hua Hsu, ["What W.E.B. Du Bois Conveyed in His Captivating Infographics"](https://www.newyorker.com/culture/culture-desk/what-w-e-b-du-bois-conveyed-in-his-captivating-infographics), *The New Yorker*, 2018
+- Ruha Benjamin, [*Race After Technology*](https://www.ruhabenjamin.com/race-after-technology), Ch. 5
 
 *Recommended:* Battle-Baptiste & Rusert (eds.), *W.E.B. Du Bois's Data Portraits*; HCE Toolkit — [Agency, Narratives](https://data104.org/hce/).
