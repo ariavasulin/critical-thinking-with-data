@@ -17,13 +17,8 @@ Each module is three ~50-minute sessions. Session lengths are flexible; the Core
 | 3 | Measure | Close | Three-part critique of Galton; Data Audit #1; bridge to Module 2 |
 | 4 | Mandate | Hook + Setup | Theory → law (Davenport, ERO, Popenoe); the 1926 recommendation form as primary source; HCE *Classification* deepens and *Representation* enters |
 | 5 | Mandate | Core Technical | Conditional probability, rate ratios, contingency tables, **Pearson inversion (chi-squared)**; sensitivity analysis; demographics of harm |
-<<<<<<< HEAD
 | 6 | Mandate | Close | Measurement vs. diagnosis; what aggregate data cannot show; HCE Audit #2 (with cross-module synthesis to Module 1); bridge to Module 3 |
 | 7 | Critique | Hook + Setup | 1900 as dual moment (Pearson ↔ Du Bois); the Paris Exposition and the Negro Exhibit; insider citizen researcher methodology; HCE *Agency* introduced |
-=======
-| 6 | Mandate | Close | Measurement vs. diagnosis; what aggregate data cannot show; Data Audit #2 (with cross-module synthesis to Module 1); bridge to Module 3 |
-| 7 | Critique | Hook + Setup | 1900 as dual moment (Pearson ↔ Du Bois); the Paris Exposition and the Negro Exhibit; insider citizen researcher methodology; HCE *Agency* + *Narratives* introduced |
->>>>>>> 0c2b9d327435bf637e9c7f66dec3921ca47a5bbe
 | 8 | Critique | Core Technical | Recreate Plate 25 in Du Bois's hand; **defaults inversion**; Kallikak side-by-side |
 | 9 | Critique | Close | Student counter-visualization; formal Data Audit #3 (the four-question protocol as a reusable habit); course synthesis and closing |
 
@@ -46,11 +41,7 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 
 ## Module 2: Mandate — From Theory to Law: California's Forced Sterilization Program
 
-<<<<<<< HEAD
 **Lead: Ariav Asulin** · **HCE concepts: Classification, Representation**
-=======
-**Concepts: Classification, Representation, Vulnerability**
->>>>>>> 0c2b9d327435bf637e9c7f66dec3921ca47a5bbe
 
 Between 1909 and 1952, California forcibly sterilized over 20,000 people using standardized recommendation forms descended directly from Galton's measurement apparatus. Students encounter a difficult discovery: the forms the state used to record sterilizations *did not include a race field*, so researchers had to invent a racial category using Spanish surnames as a proxy. The module introduces conditional probability, rate ratios, and the chi-squared test — including the "Pearson inversion," in which students use Karl Pearson's own test (invented in 1900 to argue for racial hierarchies) to quantify the racial disparities of a eugenic policy. The module also introduces the distinction between a *measurement* and a *diagnosis*.
 
@@ -59,11 +50,7 @@ Between 1909 and 1952, California forcibly sterilized over 20,000 people using s
 
 ## Module 3: Critique — Data as Counter-Narrative: W.E.B. Du Bois and the 1900 Paris Exposition
 
-<<<<<<< HEAD
 **Lead: Emett Mendel** · **HCE concepts: Agency, Representation**
-=======
-**Concepts: Agency, Narratives, Representation**
->>>>>>> 0c2b9d327435bf637e9c7f66dec3921ca47a5bbe
 
 In 1900 — the same year Karl Pearson was inventing the chi-squared test students used in Module 2 — W.E.B. Du Bois and his students at Atlanta University presented 63 hand-drawn data visualizations of Black life in Georgia at the Exposition Universelle in Paris. Students study Du Bois's plates as both statistical artifacts and rhetorical arguments, learn to read his design choices, and recreate Plate 25 in Python. The module refuses the easy story that "community data" is automatically liberatory: Du Bois made strategic omissions and centered metrics legible to a white European audience. Students sit with that tension with the HCE vocabulary and the technical skill to do so rigorously.
 
