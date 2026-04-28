@@ -100,18 +100,3 @@ In 1900 — the same year Karl Pearson was inventing the chi-squared test studen
 > Write one paragraph discussing your major takeaways from the week's material (lectures and readings). How did the material connect to your previous knowledge of or experience with the topics presented?
 
 **Notebook completion** is scored on whether each code cell was run and each reflection prompt inside the notebook was answered; the notebook is a workbook, not a performance.
-
----
-
-## Optional Extension: Final Project
-
-The final project is an **optional extension** to the 9-session core curriculum. It is framed as an opportunity rather than a requirement; the course's central instrument of assessment is the three [Data Audits](../pedagogy/#the-data-audit-recurring-assessment), not this project.
-
-Students who wish to extend the course may choose a dataset that was **not** covered in the three modules and apply:
-
-1. The full **four-question Data Audit** (Classification, Performativity, Representation, Agency) to the dataset
-2. A **Du Bois-style counter-visualization** — a deliberate rhetorical rendering of one finding from the audit
-
-The final project is where students can show the course's instincts against data that actually resembles the world they live in — a contemporary algorithmic system, a public dataset, a news-article data table — rather than one of the curated historical cases.
-
-*Detailed final-project prompt and rubric coming soon.*

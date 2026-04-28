@@ -17,8 +17,7 @@ Four HCE concepts structure the three-module arc. Each is introduced in its own 
 | **Classification** | "Implicit and explicit social organization of beings and knowledge into discrete categories." | Module 1 (Galton's gender binary, class sampling) | Module 2 (Spanish-surname proxy; diagnostic categories) |
 | **Performativity** | "The way that actions that describe the world can shape and even bring into being the very phenomena they set out to describe." | Module 1 (the 1.08 transmutation, regression to mean) | Module 2 (eugenic measurement made sterilization policy thinkable) |
 | **Representation** | "The way in which one thing is made to 'stand for' another." | Module 2 (aggregate statistics standing for 20,000 individuals) | Module 3 (Du Bois's plates as community self-representation) |
-<<<<<<< HEAD
-| **Agency** | "The ability or capacity to act or exert power." | Module 3 (Du Bois's "insider citizen researchers") | HCE Audits (students producing their own analytic framings) |
+| **Agency** | "The ability or capacity to act or exert power." | Module 3 (Du Bois's "insider citizen researchers") | Data Audits (students producing their own analytic framings) |
 | **Narratives** | "Stories in time that express and explain things that matter to people." | *Not a core focus in this course* | *Not a core focus in this course* |
 | **Vulnerability** | "Disproportionate susceptibility to harm." | *Not a core focus in this course* | *Not a core focus in this course* |
 | **Power** | "The influence or control over the behavior of people or systems." | *Not a core focus in this course* | *Not a core focus in this course* |
@@ -26,10 +25,6 @@ Four HCE concepts structure the three-module arc. Each is introduced in its own 
 | **Co-production** | "The simultaneous and reciprocal shaping of science/technology and society." | *Not a core focus in this course* | *Not a core focus in this course* |
 | **Labor** | "The human effort, both visible and invisible, required to produce technologies." | *Not a core focus in this course* | *Not a core focus in this course* |
 | **Sociotechnical Systems** | "The entangled material and social components of any system." | *Not a core focus in this course* | *Not a core focus in this course* |
-=======
-| **Agency** | "The ability or capacity to act or exert power." | Module 3 (Du Bois's "insider citizen researchers") | Data Audits (students producing their own analytic framings) |
-| **Narratives** | "Stories in time that express and explain things that matter to people." | Module 3 (the progress narrative Du Bois constructed) | Data Audits (the student's own argument) |
->>>>>>> 0c2b9d327435bf637e9c7f66dec3921ca47a5bbe
 
 These additional HCE concepts appear as secondary lenses throughout the modules, but the core four (Classification, Performativity, Representation, Agency) are the only ones assessed in the recurring data audits.
 
