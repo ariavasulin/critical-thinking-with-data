@@ -27,7 +27,7 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 - Aubrey Clayton, [*"How Eugenics Shaped Statistics"*](./extra/reading1_guide/)
 - Greenwood, C. J., Bhavnani, R., & Harmon, K., [*"Teaching the Difficult Past of Statistics"*](./extra/reading2_guide/)
 
-*Recommended:* James Hanley, "'Transmuting' Women into Men"; HCE Toolkit — [Performativity](https://data104.org/hce/)
+*Recommended:* James Hanley, ["'Transmuting' Women into Men"](https://www.tandfonline.com/doi/abs/10.1198/000313004X1558); HCE Toolkit — [Performativity](https://data104.org/hce/)
 
 ## Inversion moment
 

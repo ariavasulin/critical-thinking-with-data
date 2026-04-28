@@ -23,7 +23,7 @@ By the end of Module 3, students should be able to:
 
 1. Explain how visual design choices (color, scale, annotation, composition) change an argument without changing the underlying numbers.
 2. Use `matplotlib` intentionally rather than accepting defaults as neutral.
-3. Apply HCE concepts of Agency, Narratives, and Representation to historical and contemporary data visualizations.
+3. Apply HCE concepts of Agency and Representation to historical and contemporary data visualizations.
 4. Produce a short, evidence-based critique using the formal four-question HCE Audit protocol.
 5. Build a counter-visualization that makes a clear claim about what the original representation obscures.
 
@@ -39,12 +39,12 @@ Students understand why Du Bois's exhibit is a data intervention, not just "good
 - **Context mini-lecture (10 min):** 1900 as dual moment: Pearson formalizes inferential statistics (Module 2) while Du Bois stages a counter-narrative in Paris.
 - **Data orientation (5 min):** Quick look at Starks's reconstructed CSV (Part 2) — reading data as argument.
 - **Close reading in pairs (12 min):** Students annotate one assigned plate: data source clues, audience clues, argument clues.
-- **Whole-class synthesis (10 min):** Build class definition of Agency and Narratives in this module.
+- **Whole-class synthesis (10 min):** Build class definition of Agency in this module.
 - **Exit ticket (5 min):** "One design choice in this plate that acts like evidence is ___ because ___."
 
 ### Board plan
 
-- Left: **Key terms** — Agency, Narratives, Representation (review).
+- Left: **Key terms** — Agency, Representation (review).
 - Center: **Prompt** — "What does this chart say? How does it say it?"
 - Right: **Tension statement** — "Counter-narrative can still involve strategic omission."
 

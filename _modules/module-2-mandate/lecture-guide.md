@@ -13,7 +13,7 @@ This guide covers three ~50-minute sessions (Hook → Core → Close) and includ
 
 ## Module arc at a glance
 
-- **Session 4 (Hook + Setup):** From theory to law; California's sterilization statute; introduce Representation and Vulnerability.
+- **Session 4 (Hook + Setup):** From theory to law; California's sterilization statute; introduce Representation.
 - **Session 5 (Core Technical):** Conditional probability, rate ratios, chi-squared test; the Pearson inversion.
 - **Session 6 (Close):** The proxy problem (sensitivity analysis); diagnosis vs. measurement; HCE Audit #2 with cross-module synthesis.
 
@@ -27,7 +27,7 @@ By the end of Module 2, students should be able to:
 4. Distinguish statistical significance from effect size.
 5. Reason about proxy variables (Spanish surname → Latina) and run a sensitivity analysis.
 6. Distinguish a measurement (a reading from a calibrated instrument) from a diagnosis (a judgment recorded as data).
-7. Produce a short, evidence-based critique using the HCE concepts of Classification, Representation, and Vulnerability, with explicit cross-module comparison to Module 1.
+7. Produce a short, evidence-based critique using the HCE concepts of Classification and Representation, with explicit cross-module comparison to Module 1.
 
 ## Session 4 — Hook + Setup (From Theory to Law)
 
@@ -40,12 +40,12 @@ Students understand how Galton's ideas traveled from a London exhibition booth t
 - **Hook (8 min):** Display the redacted sterilization recommendation form image from the notebook. Ask: "What kind of data does this form produce? What can it tell us? What can it never tell us?"
 - **Context mini-lecture (12 min):** Galton → Davenport → the Human Betterment Foundation → California's 1909 statute. Emphasize the direct line from Module 1's "theory" to Module 2's "law." Show the Sonoma State Home photograph and Popenoe (1931) image for historical grounding.
 - **Data discovery in pairs (15 min):** Students load the Stern and Novak datasets and examine their structure. Prompt: "These datasets were reconstructed by historians from institutional records decades after the sterilizations occurred. What does that mean for what the data can and cannot show?"
-- **Whole-class synthesis (10 min):** Build class definitions of **Representation** (how does data stand in for people?) and **Vulnerability** (whose bodies were subject to state power?). Revisit **Classification** from Module 1 — note that the sterilization forms did *not* include a race field.
+- **Whole-class synthesis (10 min):** Build class definition of **Representation** (how does data stand in for people?). Revisit **Classification** from Module 1 — note that the sterilization forms did *not* include a race field.
 - **Exit ticket (5 min):** "One thing this dataset structurally cannot show about the people it documents is ___ because ___."
 
 ### Board plan
 
-- Left: **Key terms** — Representation, Vulnerability, Classification (review), proxy variable, institutional record.
+- Left: **Key terms** — Representation, Classification (review), proxy variable, institutional record.
 - Center: **Prompt** — "What does a standardized form make visible? What does it erase?"
 - Right: **Tension statement** — "We need this data to name what happened. The data was produced by the system that did the harm."
 

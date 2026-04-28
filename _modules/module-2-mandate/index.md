@@ -7,7 +7,7 @@ permalink: /modules/module-2-mandate/
 
 # Module 2: Mandate — From Theory to Law: California's Forced Sterilization Program
 
-**Sessions 4–6** · **HCE concepts: Classification, Representation, Vulnerability**
+**Sessions 4–6** · **HCE concepts: Classification, Representation**
 
 ## What this module covers
 
@@ -25,10 +25,10 @@ The module introduces conditional probability, rate ratios, and the chi-squared 
 
 ## Required readings
 
-- Novak et al., "Disproportionate Sterilization of Latinos Under California's Eugenic Sterilization Program, 1920–1945", *AJPH* 2018
-- Stern et al., "California's Sterilization Survivors: An Estimate and Call for Redress", *AJPH* 2017
+- Novak et al., ["Disproportionate Sterilization of Latinos Under California's Eugenic Sterilization Program, 1920–1945"](https://pmc.ncbi.nlm.nih.gov/articles/PMC5888070/), *AJPH* 2018
+- Stern et al., ["California's Sterilization Survivors: An Estimate and Call for Redress"](https://pubmed.ncbi.nlm.nih.gov/27854540/), *AJPH* 2017
 
-*Recommended:* Whatcott, *Menace to the Future*, Prologue + Intro; HCE Toolkit — [Classification, Representation](https://data104.org/hce/)
+*Recommended:* Whatcott, [*Menace to the Future*, Prologue + Intro](https://dukeupress.edu/menace-to-the-future); HCE Toolkit — [Classification, Representation](https://data104.org/hce/)
 
 ## Inversion moment
 

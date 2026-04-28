@@ -10,7 +10,7 @@ permalink: /pedagogy/
 
 The course adopts the Human Contexts and Ethics Toolkit developed at UC Berkeley (see [data104.org/hce](https://data104.org/hce/)), which provides a shared theoretical vocabulary for Data C104 (Human Contexts and Ethics of Data) and Data C4AC (Data and Justice). Because this curriculum is designed to prepare students for those college-level courses, we adopt the HCE concepts directly — introduced at a high-school-appropriate level — rather than inventing new frameworks.
 
-Five HCE concepts structure the three-module arc. Each is introduced in its own module and returns in later modules in new technical contexts. This recurrence is the curriculum's bridging mechanism: students see the same concept operate differently across cases, and the differences are what teach.
+Four HCE concepts structure the three-module arc. Each is introduced in its own module and returns in later modules in new technical contexts. This recurrence is the curriculum's bridging mechanism: students see the same concept operate differently across cases, and the differences are what teach.
 
 | HCE Concept | Definition (from the HCE Toolkit) | Introduced in | Returns in |
 |---|---|---|---|
@@ -18,9 +18,15 @@ Five HCE concepts structure the three-module arc. Each is introduced in its own 
 | **Performativity** | "The way that actions that describe the world can shape and even bring into being the very phenomena they set out to describe." | Module 1 (the 1.08 transmutation, regression to mean) | Module 2 (eugenic measurement made sterilization policy thinkable) |
 | **Representation** | "The way in which one thing is made to 'stand for' another." | Module 2 (aggregate statistics standing for 20,000 individuals) | Module 3 (Du Bois's plates as community self-representation) |
 | **Agency** | "The ability or capacity to act or exert power." | Module 3 (Du Bois's "insider citizen researchers") | HCE Audits (students producing their own analytic framings) |
-| **Narratives** | "Stories in time that express and explain things that matter to people." | Module 3 (the progress narrative Du Bois constructed) | HCE Audits (the student's own argument) |
+| **Narratives** | "Stories in time that express and explain things that matter to people." | *Not a core focus in this course* | *Not a core focus in this course* |
+| **Vulnerability** | "Disproportionate susceptibility to harm." | *Not a core focus in this course* | *Not a core focus in this course* |
+| **Power** | "The influence or control over the behavior of people or systems." | *Not a core focus in this course* | *Not a core focus in this course* |
+| **Identity/Positionality** | "The social and political context that creates one's identity." | *Not a core focus in this course* | *Not a core focus in this course* |
+| **Co-production** | "The simultaneous and reciprocal shaping of science/technology and society." | *Not a core focus in this course* | *Not a core focus in this course* |
+| **Labor** | "The human effort, both visible and invisible, required to produce technologies." | *Not a core focus in this course* | *Not a core focus in this course* |
+| **Sociotechnical Systems** | "The entangled material and social components of any system." | *Not a core focus in this course* | *Not a core focus in this course* |
 
-Additional HCE concepts (Power, Vulnerability, Identity/Positionality, Co-production, Labor, Sociotechnical Systems) appear as secondary lenses throughout; the five above are the ones we drill on.
+These additional HCE concepts appear as secondary lenses throughout the modules, but the core four (Classification, Performativity, Representation, Agency) are the only ones assessed in the recurring data audits.
 
 ---
 
