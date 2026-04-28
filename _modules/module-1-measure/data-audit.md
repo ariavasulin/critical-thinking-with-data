@@ -1,11 +1,11 @@
 ---
-title: HCE Audit
+title: Data Audit
 parent: "Module 1: Measure"
 nav_order: 3
-permalink: /modules/module-1-measure/hce-audit/
+permalink: /modules/module-1-measure/data-audit/
 ---
 
-# HCE Audit — Module 1
+# Data Audit — Module 1
 
 Module 1 introduces the HCE protocol as a structured habit. This first audit is intentionally scaffolded: students receive vocabulary definitions, a worked example, and only two of the four HCE questions. The goal is to build confidence and precision before the more demanding audits in Modules 2 and 3.
 

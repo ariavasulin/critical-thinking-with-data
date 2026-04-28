@@ -87,11 +87,19 @@ permalink: /credits/
 
 ## References
 
+### C4AC Theoretical Anchors
+
+The curriculum's framing of justice as the politics of classification draws directly on three readings from UC Berkeley's Data C4AC (Spring 2026):
+
+- **Charles W. Mills**, *The Racial Contract*, Cornell University Press, 1997. *C4AC Week 4* — the political-theory anchor for treating statistical conventions as the racial contract made quantitative.
+- **Khalil Gibran Muhammad**, *The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America*, Harvard University Press, 2010. *C4AC Week 8* — "The Mismeasure of Crime" introduction.
+- **Anna Lauren Hoffmann**, "Terms of Inclusion: Data, Discourse, Violence", *New Media and Society* 23(12), 2021. *C4AC Week 5* — frames measurement itself as a form of harm prior to and independent of any downstream policy.
+
 ### Module 1 — Measure (Galton)
 
 - **Aubrey Clayton**, *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*, Columbia University Press, 2021. **Required** — Ch. 3 selections on Galton, eugenics, and the birth of inferential statistics.
 - **Prakash Gorroochurn**, "On Galton's Change From 'Reversion' to 'Regression'", *The American Statistician*, 2016. **Required** — close reading of Galton's terminology shift.
-- **James Hanley**, "'Transmuting' Women into Men: Galton's Family Data on Human Stature", *The American Statistician*, 2004. *Recommended* — the 1.08 transmutation in primary-source detail.
+- **James Hanley**, "'Transmuting' Women into Men: Galton's Family Data on Human Stature", *The American Statistician*, 2012. *Recommended* — the 1.08 transmutation in primary-source detail.
 - **HCE Toolkit — *Performativity***. [data104.org/hce](https://data104.org/hce/).
 
 ### Module 2 — Mandate (California Sterilization)
@@ -104,7 +112,7 @@ permalink: /credits/
 
 ### Module 3 — Critique (Du Bois)
 
-- **Hua Hsu**, ["What W.E.B. Du Bois Conveyed in His Captivating Infographics"](https://www.newyorker.com/culture/culture-desk/what-w-e-b-du-bois-conveyed-in-his-captivating-infographics), *The New Yorker*, 2018. **Required** — introduces Du Bois's Paris Exposition plates to a general audience.
+- **Hua Hsu**, ["What W.E.B. Du Bois Conveyed in His Captivating Infographics"](https://www.newyorker.com/culture/culture-desk/what-w-e-b-du-bois-conveyed-in-his-captivating-infographics), *The New Yorker*, November 6, 2019. **Required** — introduces Du Bois's Paris Exposition plates to a general audience.
 - **Ruha Benjamin**, [*Race After Technology: Abolitionist Tools for the New Jim Code*](https://www.ruhabenjamin.com/race-after-technology), Polity, 2019. **Required** — Ch. 5 on data, design, and resistance.
 - **Whitney Battle-Baptiste & Britt Rusert** (eds.), *W.E.B. Du Bois's Data Portraits: Visualizing Black America*, Princeton Architectural Press, 2018. *Recommended* — full-color facsimiles of all 63 Paris Exposition plates with scholarly introductions.
 - **Anthony Starks** — [#DuBoisChallenge](https://github.com/ajstarks/dubois-data-portraits). Reconstructed CSV data for the Paris Exposition plates.

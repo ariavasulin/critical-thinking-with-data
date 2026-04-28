@@ -9,13 +9,13 @@ permalink: /modules/module-1-measure/lecture-guide/
 
 Module 1 opens the course arc by asking a deceptively simple question: **where did the statistical tools we use every day actually come from — and what were they built to do?** Students work with Galton's original 1886 height dataset, learn correlation and regression, and discover that the math itself undermined its inventor's eugenic thesis through regression to the mean.
 
-This guide covers three ~50-minute sessions (Hook → Core → Close) and includes narrative beats, board work, facilitation prompts, misconception watchlist, and the formal HCE Audit #1 protocol.
+This guide covers three ~50-minute sessions (Hook → Core → Close) and includes narrative beats, board work, facilitation prompts, misconception watchlist, and the formal Data Audit #1 protocol.
 
 ## Module arc at a glance
 
 - **Session 1 (Hook + Setup):** London 1884; who paid three pence to be measured; introduce Classification and Performativity.
 - **Session 2 (Core Technical):** EDA, correlation, regression, and the discovery of regression to the mean.
-- **Session 3 (Close):** The 1.08 transmutation toggle; formal HCE Audit #1 using Classification and Performativity.
+- **Session 3 (Close):** The 1.08 transmutation toggle; formal Data Audit #1 using Classification and Performativity.
 
 ## Learning goals
 
@@ -107,18 +107,18 @@ Students compute correlation and regression on the Galton dataset and discover r
 
 - Read Gorroochurn (2016) and identify the passage where Galton changes his terminology from "reversion" to "regression." Why did the name change matter?
 
-## Session 3 — Close (The 1.08 Toggle + HCE Audit #1)
+## Session 3 — Close (The 1.08 Toggle + Data Audit #1)
 
 ### Session objective
 
-Students examine Galton's transmutation of female heights, toggle the 1.08 multiplier on and off, observe the regression line shift, and complete HCE Audit #1 using Classification and Performativity.
+Students examine Galton's transmutation of female heights, toggle the 1.08 multiplier on and off, observe the regression line shift, and complete Data Audit #1 using Classification and Performativity.
 
 ### Suggested flow (~50 min)
 
 - **Launch (5 min):** Recap regression to the mean. Introduce the problem: "Galton wanted one regression line for the whole population. But male and female height distributions are different. What did he do?"
 - **Notebook exploration (15 min):** Students run the transmutation section — multiplying female heights by 1.08 and observing the scatter plot with and without the multiplier. Side-by-side display.
 - **Discussion (12 min):** "The line moved. The world didn't change. A methodological choice moved it." Students articulate what the 1.08 factor assumes about female bodies and why treating it as a neutral correction is problematic.
-- **HCE Audit writing (15 min):** Formal two-question protocol (Classification and Performativity) applied to the Galton dataset. This is the first audit and is scaffolded with vocabulary definitions and a worked example.
+- **Data Audit writing (15 min):** Formal two-question protocol (Classification and Performativity) applied to the Galton dataset. This is the first audit and is scaffolded with vocabulary definitions and a worked example.
 - **Closing reflection (3 min):** "When data is collected to justify control over people's bodies, what responsibility do analysts have when they use that data decades later?" (This question bridges directly to Module 2.)
 
 ### Board plan
@@ -142,7 +142,7 @@ Students examine Galton's transmutation of female heights, toggle the 1.08 multi
 - "The audit is opinion."
   Audit claims must cite specific data, charts, or code output.
 
-## HCE Audit #1 implementation notes
+## Data Audit #1 implementation notes
 
 - This is the first audit. Scaffold it: provide the vocabulary definitions for Classification and Performativity on the prompt sheet, and include one worked example response.
 - Require students to cite at least one specific number, chart, or code output from their notebook in each response.
@@ -154,7 +154,7 @@ Students examine Galton's transmutation of female heights, toggle the 1.08 multi
 - Projector-ready display of the raw Galton dataset (first 5 rows, no context).
 - Module 1 notebook pre-run through all cells once for sanity checks; ensure `figures/` directory images are generated.
 - Side-by-side display template for transmutation on/off comparison.
-- Printed or digital HCE Audit #1 prompt, rubric, and worked example.
+- Printed or digital Data Audit #1 prompt, rubric, and worked example.
 - Timer for pair discussions and quick transitions.
 
 ## Required readings

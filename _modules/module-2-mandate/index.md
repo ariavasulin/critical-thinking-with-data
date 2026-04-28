@@ -21,7 +21,7 @@ The module introduces conditional probability, rate ratios, and the chi-squared 
 
 - **For teachers** → [Lecture Guide](./lecture-guide/) *(in progress)*
 - **For students** → [Notebook](./notebook/)
-- **HCE Audit** → [Audit prompt and rubric](./hce-audit/) *(in progress)*
+- **Data Audit** → [Audit prompt and rubric](./data-audit/) *(in progress)*
 
 ## Required readings
 
@@ -32,8 +32,8 @@ The module introduces conditional probability, rate ratios, and the chi-squared 
 
 ## Inversion moment
 
-**The proxy sweep.** Researchers identified Latino sterilization victims by Spanish surname — a decision made decades after the data was collected. Students vary the false-positive rate of the proxy and watch the racial disparity estimate shift. The 1.59× disparity stays above 1.0 even at aggressive misclassification — that's robustness — but the precise number moves. Any single reported figure depends on a categorization choice that is itself a research artifact.
+**The proxy sweep.** Researchers identified Latino sterilization victims by Spanish surname — a decision made decades after the data was collected. Students vary the classification error rate of the proxy and watch the racial disparity estimate shift. The 1.59× disparity stays above 1.0 even at aggressive misclassification — that's robustness — but the precise number moves. Any single reported figure depends on a categorization choice that is itself a research artifact.
 
-## HCE Audit #2
+## Data Audit #2
 
 Applied to the sterilization dataset, with an explicit **cross-module synthesis** component: students compare the Galton dataset (Module 1) to the sterilization dataset (Module 2) under Classification and Performativity. This is the course's single required piece of written cross-module synthesis, and it lives inside the audit rather than as a separate essay.

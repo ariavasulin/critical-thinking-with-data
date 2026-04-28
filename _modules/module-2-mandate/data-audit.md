@@ -1,11 +1,11 @@
 ---
-title: HCE Audit
+title: Data Audit
 parent: "Module 2: Mandate"
 nav_order: 3
-permalink: /modules/module-2-mandate/hce-audit/
+permalink: /modules/module-2-mandate/data-audit/
 ---
 
-# HCE Audit — Module 2
+# Data Audit — Module 2
 
 Module 2 extends the HCE protocol from two questions to a three-part analysis. Students apply HCE concepts to California sterilization data and produce a structured cross-module synthesis linking Module 1 (Galton) and Module 2 (state policy data).
 
