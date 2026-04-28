@@ -29,6 +29,13 @@ div.highlighter-rouge div.highlight {
     border-collapse: collapse;
 }
 
+.schedule-table th:first-child,
+.schedule-table td:first-child {
+    width: 2.5em;
+    min-width: 0;
+    white-space: nowrap;
+}
+
 // Note block accent (Berkeley Founders Rock)
 p.note, blockquote.note {
   border-left-color: #3B7EA1;

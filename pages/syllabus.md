@@ -17,10 +17,11 @@ Each module is three ~50-minute sessions. Session lengths are flexible; the Core
 | 3 | Measure | Close | Three-part critique of Galton; Data Audit #1; bridge to Module 2 |
 | 4 | Mandate | Hook + Setup | Theory → law (Davenport, ERO, Popenoe); the 1926 recommendation form as primary source; HCE *Classification* deepens and *Representation* enters |
 | 5 | Mandate | Core Technical | Conditional probability, rate ratios, contingency tables, **Pearson inversion (chi-squared)**; sensitivity analysis; demographics of harm |
-| 6 | Mandate | Close | Measurement vs. diagnosis; what aggregate data cannot show; HCE Audit #2 (with cross-module synthesis to Module 1); bridge to Module 3 |
-| 7 | Critique | Hook + Setup | 1900 as dual moment (Pearson ↔ Du Bois); the Paris Exposition and the Negro Exhibit; insider citizen researcher methodology; HCE *Agency* introduced |
+| 6 | Mandate | Close | Measurement vs. diagnosis; what aggregate data cannot show; Data Audit #2 (with cross-module synthesis to Module 1); bridge to Module 3 |
+| 7 | Critique | Hook + Setup | 1900 as dual moment (Pearson ↔ Du Bois); the Paris Exposition and the Negro Exhibit; insider citizen researcher methodology; HCE *Agency* + *Narratives* introduced |
 | 8 | Critique | Core Technical | Recreate Plate 25 in Du Bois's hand; **defaults inversion**; Kallikak side-by-side |
 | 9 | Critique | Close | Student counter-visualization; formal Data Audit #3 (the four-question protocol as a reusable habit); course synthesis and closing |
+{: .schedule-table}
 
 Each module's three sessions are supported by:
 
