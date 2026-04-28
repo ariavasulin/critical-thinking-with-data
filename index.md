@@ -6,15 +6,15 @@ permalink: /
 
 # Critical Thinking with Data
 
-*A 9-session high school curriculum on data, ethics, and American history. Teaching statistics through the eugenic origins of its tools.*
+*An introductory high school mini-course on making sense of data in the real world.*
 
 ---
 
-The foundational tools of modern statistics — regression, correlation, hypothesis testing — were not discovered in a neutral laboratory. They were invented in direct service of the eugenics movement. Francis Galton coined "eugenics" in 1883 and invented regression. Karl Pearson developed the correlation coefficient and chi-squared test while editing the *Annals of Eugenics*. Ronald Fisher pioneered significance testing as a working eugenicist.
+Regression, correlation, hypothesis testing; the statistical tools taught in high school math classes weren't invented in a neutral laboratory. Francis Galton, who invented regression, believed humanity could be improved by controlling who was allowed to have children. He called this idea eugenics, and he meant it as science. Karl Pearson developed the correlation coefficient and chi-squared test while editing the journal *Annals of Eugenics*. Ronald Fisher, who pioneered significance testing and the *p*-value, was a working eugenicist his whole career. The math and the ideology were built together.
 
-These tools traveled from Victorian England to the United States, where they provided the statistical scaffolding for compulsory sterilization laws that forcibly sterilized over 20,000 Californians between 1909 and 1952 — disproportionately Latina, Black, Indigenous, and disabled.
+These techniques traveled from Victorian England to the United States, where they provided the 'scientific' scaffolding for laws that forcibly sterilized over 20,000 Californians between 1909 and 1952 — disproportionately Latina, Black, Indigenous, and disabled.
 
-*Critical Thinking with Data* teaches high school students to do data science the way a historian reads a primary source: asking who produced the data, what choices they made, and whose stories it tells. Students build real technical skills in Python and statistics while working with real historical datasets — Galton's 1886 height records, California's forced-sterilization aggregates, and W.E.B. Du Bois's 1900 Paris Exposition plates. Each module uses a specific technical skill to surface a specific theoretical concept.
+*Critical Thinking with Data* teaches you how to approach data with the same intellectual skepticism of our best historians and researchers: asking who produced the data, what choices they made, and whose stories it tells. In this course, you build real technical skills in Python and statistics while working with real historical datasets such as Galton's 1886 height records, California's forced-sterilization aggregates, and W.E.B. Du Bois's 1900 Paris Exposition plates. Each module uses a specific technical skill to surface a specific theoretical concept.
 
 Designed for **grades 10–12**, aligned with California's **AB 101 ethnic studies** requirement, and built to precede UC Berkeley's **Data 8**, **Data 104**, and **Data C4AC**.
 

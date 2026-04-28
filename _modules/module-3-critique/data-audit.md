@@ -1,11 +1,11 @@
 ---
-title: HCE Audit
+title: Data Audit
 parent: "Module 3: Critique"
 nav_order: 3
-permalink: /modules/module-3-critique/hce-audit/
+permalink: /modules/module-3-critique/data-audit/
 ---
 
-# HCE Audit — Module 3
+# Data Audit — Module 3
 
 Module 3 formalizes the full four-question HCE protocol as a reusable habit. In this audit, students apply the same questions twice: first to Du Bois's original Plate 25, then to their own counter-visualization.
 

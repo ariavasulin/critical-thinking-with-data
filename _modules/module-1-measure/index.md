@@ -19,7 +19,7 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 
 - **For teachers** → [Lecture Guide](./lecture-guide/)
 - **For students** → [Notebook](./notebook/)
-- **HCE Audit** → [Audit prompt and rubric](./hce-audit/)
+- **Data Audit** → [Audit prompt and rubric](./data-audit/)
 - **Extra** → [Discussion Plan](./extra/discussion_lesson_plan/), [Lecture Outline](./extra/lecture_outline/), [Reading 1](./extra/reading1_guide/), [Reading 2](./extra/reading2_guide/)
 
 ## Required readings
@@ -33,6 +33,6 @@ Students meet Francis Galton, the Victorian polymath who coined the word "eugeni
 
 **The 1.08 toggle.** Galton multiplied every woman's height by 1.08 to make them "comparable" to men's so he could fit a single regression line across the whole population. Students turn the multiplier on and off. The line moves. The world didn't change; a methodological choice — not a fact about bodies — moved it.
 
-## HCE Audit #1
+## Data Audit #1
 
 Classification and Performativity, applied to the Galton dataset. The first audit is scaffolded: students are given the vocabulary and a worked example, then write their own 2–4 sentence response per concept citing specific evidence from their notebook.

@@ -10,9 +10,19 @@ permalink: /about/
 
 The foundational tools of modern statistics — regression, correlation, hypothesis testing — were not discovered in a neutral laboratory. They were invented in direct service of the eugenics movement, a scientific-political project that translated racial ideology into state policy. Francis Galton coined "eugenics" in 1883 and invented regression. His protégé Karl Pearson developed the correlation coefficient and the chi-squared test while editing the *Annals of Eugenics*. Ronald Fisher pioneered significance testing as a working eugenicist. These tools traveled from Victorian England to the United States, where they provided the statistical scaffolding for compulsory sterilization laws that, between 1909 and 1952, forcibly sterilized over 20,000 Californians — disproportionately Latina, Black, Indigenous, and disabled.
 
-This curriculum teaches high school students to do data science the way a historian reads a primary source: asking who produced the data, what choices they made, and whose stories it tells. Across three modules of three sessions each, students build technical skills (exploratory data analysis, correlation, conditional probability, data visualization in Python) while working with real historical datasets: Galton's 1886 height records, aggregate statistics from California's forced sterilization program, and W.E.B. Du Bois's hand-drawn visualizations from the 1900 Paris Exposition. Each module uses a specific technical skill to demonstrate a specific theoretical concept. The same statistical tool — chi-squared — that Pearson invented to defend racial hierarchies is the tool students will use to quantify the racial disparities of a eugenic policy.
+This curriculum teaches high school students to practice data science the way a historian reads a primary source: asking who produced the data, what choices they made, and whose stories it tells. Across three modules of three sessions each, students build technical skills (exploratory data analysis, correlation, conditional probability, data visualization in Python) while working with real historical datasets: Galton's 1886 height records, aggregate statistics from California's forced sterilization program, and W.E.B. Du Bois's hand-drawn visualizations from the 1900 Paris Exposition. Each module uses a specific technical skill to demonstrate a specific theoretical concept. The same statistical tool — chi-squared — that Pearson invented to defend racial hierarchies is the tool students will use to quantify the racial disparities of a eugenic policy.
 
 The course is designed to satisfy California's AB 101 ethnic studies graduation requirement by centering the experiences of communities affected by data-driven state violence, not as an add-on but as the organizing principle of the technical instruction. Because UC now recognizes data science as a valid Area C mathematics course, *Critical Thinking with Data* can potentially count toward the recommended fourth-year math requirement for UC/CSU admissions. Students who complete it enter Data 8, Data 104, or Data C4AC already fluent in Python, Jupyter, and the Human Contexts and Ethics Toolkit that those courses build on.
+
+---
+
+## For Adopting Schools
+
+This curriculum is designed for and within UC Berkeley's [CDSS Educational Partners](https://cdss.berkeley.edu/dsus/educationalpartners/partners) program and its K–12 flagship, the **High School Ethnic Studies Initiative (HSESI)**. HSESI was launched as a collaboration between Berkeley's American Cultures Center, the Department of Ethnic Studies, and the History–Social Science Project to support Bay Area teachers and districts implementing California's AB 101 Ethnic Studies graduation requirement (rolled out 2025–26).
+
+The broader Educational Partners program extends Berkeley's data science pedagogy — the HCE Toolkit, the Data 8 connector model, this public-facing pre–Data 8 / pre–Data 104 curriculum — outward to community colleges, partner high schools, and equity-focused programs that under-resourced students otherwise lack access to. *Critical Thinking with Data* is a direct deliverable into this movement: a Jupyter-and-readings package designed at the AB-101-and-pre-Data-8 intersection, intended for adoption by HSESI partner classrooms and any high school course meeting California's ethnic studies requirement.
+
+Our theory of change follows the movement's: data science taught with its histories produces both technical fluency and critical citizenship.
 
 ---
 
@@ -55,7 +65,7 @@ What students will be able to do after this course:
 - Compute and interpret conditional probabilities, rate ratios, and chi-squared tests of independence
 - Recreate a historical visualization in Python and critique the rhetorical choices embedded in its design
 
-### Read data critically (the HCE Audit habit)
+### Read data critically (the Data Audit habit)
 
 - Apply a consistent critical reading protocol to any dataset
 - Write a structured reflection tying a specific technical finding to a specific historical or policy claim
@@ -75,7 +85,7 @@ What students will be able to do after this course:
 - **Three Jupyter notebooks** — the core student-facing artifacts, one per module
 - **Three lecture guides** — teacher-facing session plans covering three ~50-minute sessions each (narrative beats, board work, discussion facilitation, misconception watchlist)
 - **Three reading assignments** — two required readings + one to two recommended per module, each with a reflection prompt
-- **HCE Audit prompt and rubric** — the reusable four-question instrument used at the end of each module
+- **Data Audit prompt and rubric** — the reusable four-question instrument used at the end of each module
 - **Course overview** (this site)
 - **Team reflection** (~1,000 words) on the specific challenges and opportunities of using data for projects of justice
 - **Individual reflections** (300–500 words each) from each team member

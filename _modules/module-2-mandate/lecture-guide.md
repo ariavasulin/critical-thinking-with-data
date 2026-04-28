@@ -9,13 +9,13 @@ permalink: /modules/module-2-mandate/lecture-guide/
 
 Module 2 turns the course from theory to history. The question shifts from "Where did these tools come from?" to **"What happened when eugenic theory became law?"** Students work with data from California's forced sterilization program (1909–1952) and use the statistical tools that eugenicists built — conditional probability, rate ratios, and Karl Pearson's chi-squared test — to quantify the very disparities those tools were designed to justify.
 
-This guide covers three ~50-minute sessions (Hook → Core → Close) and includes narrative beats, board work, facilitation prompts, misconception watchlist, and the formal HCE Audit #2 protocol.
+This guide covers three ~50-minute sessions (Hook → Core → Close) and includes narrative beats, board work, facilitation prompts, misconception watchlist, and the formal Data Audit #2 protocol.
 
 ## Module arc at a glance
 
 - **Session 4 (Hook + Setup):** From theory to law; California's sterilization statute; introduce Representation.
 - **Session 5 (Core Technical):** Conditional probability, rate ratios, chi-squared test; the Pearson inversion.
-- **Session 6 (Close):** The proxy problem (sensitivity analysis); diagnosis vs. measurement; HCE Audit #2 with cross-module synthesis.
+- **Session 6 (Close):** The proxy problem (sensitivity analysis); diagnosis vs. measurement; Data Audit #2 with cross-module synthesis.
 
 ## Learning goals
 
@@ -107,11 +107,11 @@ Students compute conditional probabilities and rate ratios from the sterilizatio
 
 - Draft a one-paragraph explanation of the Pearson inversion for a reader who knows what a chi-squared test is but doesn't know its history.
 
-## Session 6 — Close (Proxy Problem + Diagnosis vs. Measurement + HCE Audit #2)
+## Session 6 — Close (Proxy Problem + Diagnosis vs. Measurement + Data Audit #2)
 
 ### Session objective
 
-Students run a sensitivity analysis on the Spanish-surname proxy variable, distinguish measurements from diagnoses, and complete HCE Audit #2 with an explicit cross-module synthesis comparing the Galton dataset (Module 1) to the sterilization dataset (Module 2).
+Students run a sensitivity analysis on the Spanish-surname proxy variable, distinguish measurements from diagnoses, and complete Data Audit #2 with an explicit cross-module synthesis comparing the Galton dataset (Module 1) to the sterilization dataset (Module 2).
 
 ### Suggested flow (~50 min)
 
@@ -119,7 +119,7 @@ Students run a sensitivity analysis on the Spanish-surname proxy variable, disti
 - **Sensitivity analysis (12 min):** Students vary the false-positive rate of the surname proxy and observe how the rate ratio shifts. Key takeaway: the disparity stays above 1.0 even at aggressive misclassification rates — that's robustness — but the precise number moves.
 - **Diagnosis vs. measurement (8 min):** Students examine the top-10 diagnoses in the dataset (e.g., "feebleminded," "moron"). Ask: "Is 'feebleminded' a measurement like height, or a judgment written onto a form? What kind of data does a diagnosis produce, compared to the height data in Module 1?"
 - **Bridge to Module 3 (5 min):** Read the closing passage of the notebook: "Those are aggregate counts. Things aggregate counts cannot show: a single face..." Ask: "What would it look like if someone refused to leave the silence alone?" (This bridges to Du Bois.)
-- **HCE Audit writing (17 min):** Formal three-question protocol: Classification (applied to sterilization data), Representation (applied to sterilization data), and a cross-module synthesis paragraph comparing Module 1 and Module 2 under Classification and Performativity.
+- **Data Audit writing (17 min):** Formal three-question protocol: Classification (applied to sterilization data), Representation (applied to sterilization data), and a cross-module synthesis paragraph comparing Module 1 and Module 2 under Classification and Performativity.
 - **Closing reflection (3 min):** "What does this data reveal? What does it structurally conceal? Why does the gap matter?"
 
 ### Board plan
@@ -143,7 +143,7 @@ Students run a sensitivity analysis on the Spanish-surname proxy variable, disti
 - "Aggregate data tells the whole story."
   Aggregate counts reveal patterns. They cannot show individual experience, resistance, or survival. Both levels of analysis matter.
 
-## HCE Audit #2 implementation notes
+## Data Audit #2 implementation notes
 
 - This is the second audit. Remove the worked example from the prompt — students should now apply the concepts independently.
 - Three parts: Classification (sterilization data), Representation (sterilization data), and a cross-module synthesis paragraph comparing the Galton dataset (Module 1) to the sterilization dataset (Module 2) under Classification and Performativity.
@@ -155,7 +155,7 @@ Students run a sensitivity analysis on the Spanish-surname proxy variable, disti
 
 - Projector-ready images: sterilization recommendation form, Sonoma State Home, Popenoe (1931), Carrillo (AB 1764 author).
 - Module 2 notebook pre-run through all cells once for sanity checks.
-- Printed or digital HCE Audit #2 prompt and rubric.
+- Printed or digital Data Audit #2 prompt and rubric.
 - Content note for students: distribute at beginning of Session 4, as specified in the notebook.
 - Timer for pair discussions and audit writing.
 

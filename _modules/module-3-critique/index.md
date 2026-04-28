@@ -19,7 +19,7 @@ The module refuses the easy story that "community data" is automatically liberat
 
 - **For teachers** → [Lecture Guide](./lecture-guide/)
 - **For students** → [Notebook](./notebook/)
-- **HCE Audit** → [Audit prompt and rubric](./hce-audit/)
+- **Data Audit** → [Audit prompt and rubric](./data-audit/)
 
 ## Required readings
 
@@ -32,6 +32,6 @@ The module refuses the easy story that "community data" is automatically liberat
 
 **Plate 25 with matplotlib defaults.** Students re-render one of Du Bois's plates using the library's default palette, linear axes, and no annotation. The numbers are identical. The argument is gone. Visualization choices are not cosmetic — they are the argument.
 
-## HCE Audit #3
+## Data Audit #3
 
 The **formal four-question protocol** (Classification, Performativity, Representation, Agency) applied both to Du Bois's plate *and* to each student's own counter-visualization. The third audit is the formalization; by this point, the protocol is a habit, not a new skill.

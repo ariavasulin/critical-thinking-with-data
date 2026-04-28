@@ -9,13 +9,13 @@ permalink: /modules/module-3-critique/lecture-guide/
 
 Module 3 closes the course arc by asking a harder question than "Is this dataset biased?": **what does responsible, strategic, community-centered data practice look like in public?** Students examine Du Bois's Paris plates as both statistical artifacts and rhetorical interventions, then build their own counter-visualization with explicit design intent.
 
-This guide covers three ~50-minute sessions (Hook → Core → Close) and includes narrative beats, board work, facilitation prompts, misconception watchlist, and the formal HCE Audit #3 protocol.
+This guide covers three ~50-minute sessions (Hook → Core → Close) and includes narrative beats, board work, facilitation prompts, misconception watchlist, and the formal Data Audit #3 protocol.
 
 ## Module arc at a glance
 
 - **Session 7 (Hook + Setup):** 1900 as a dual moment (Pearson and Du Bois); The Data and the Exhibit (Parts 1 & 2).
 - **Session 8 (Core Technical):** Recreate Plate 25; Plate 25 Defaults Inversion; Counter-Narrative vs. Eugenic Propaganda (Parts 3, 4, & 5).
-- **Session 9 (Close):** Student Counter-Visualization and formal HCE Audit #3 (Parts 6, 7 & 8).
+- **Session 9 (Close):** Student Counter-Visualization and formal Data Audit #3 (Parts 6, 7 & 8).
 
 ## Learning goals
 
@@ -23,8 +23,13 @@ By the end of Module 3, students should be able to:
 
 1. Explain how visual design choices (color, scale, annotation, composition) change an argument without changing the underlying numbers.
 2. Use `matplotlib` intentionally rather than accepting defaults as neutral.
+<<<<<<< HEAD
 3. Apply HCE concepts of Agency and Representation to historical and contemporary data visualizations.
 4. Produce a short, evidence-based critique using the formal four-question HCE Audit protocol.
+=======
+3. Apply HCE concepts of Agency, Narratives, and Representation to historical and contemporary data visualizations.
+4. Produce a short, evidence-based critique using the formal four-question Data Audit protocol.
+>>>>>>> 0c2b9d327435bf637e9c7f66dec3921ca47a5bbe
 5. Build a counter-visualization that makes a clear claim about what the original representation obscures.
 
 ## Session 7 — Hook + Setup (Du Bois in 1900)
@@ -106,18 +111,18 @@ Students recreate Plate 25 in Python, then re-render with library defaults to ob
 
 - Draft a one-sentence claim for your counter-visualization: what the original view obscures and what your revision surfaces.
 
-## Session 9 — Close (Counter-Visualization + HCE Audit #3)
+## Session 9 — Close (Counter-Visualization + Data Audit #3)
 
 ### Session objective
 
-Students finalize a counter-visualization and complete HCE Audit #3 using evidence from both Du Bois's original plate and their own redesigned chart.
+Students finalize a counter-visualization and complete Data Audit #3 using evidence from both Du Bois's original plate and their own redesigned chart.
 
 ### Suggested flow (~50 min)
 
 - **Launch (5 min):** Revisit the module's central tension: strategic advocacy vs. omission risk.
 - **Build time (18 min):** Students finish counter-visualizations and export figures.
 - **Gallery walk (12 min):** Peer feedback on claim clarity, evidence use, and audience fit.
-- **HCE Audit writing (12 min):** Formal four-question protocol (Classification, Performativity, Representation, Agency).
+- **Data Audit writing (12 min):** Formal four-question protocol (Classification, Performativity, Representation, Agency).
 - **Closing reflection (3 min):** "What does responsible data storytelling require from us?"
 
 ### Board plan
@@ -141,7 +146,7 @@ Students finalize a counter-visualization and complete HCE Audit #3 using eviden
 - "Agency belongs only to historical actors."  
   Students are exercising agency through their own representational choices.
 
-## HCE Audit #3 implementation notes
+## Data Audit #3 implementation notes
 
 - Use the same four questions from prior modules, but hold a higher evidence standard.
 - Require students to reference:
@@ -155,7 +160,7 @@ Students finalize a counter-visualization and complete HCE Audit #3 using eviden
 - Projector-ready images of selected Du Bois plates (including Plate 25).
 - Module 3 notebook pre-run through the plotting cells once for sanity checks.
 - Side-by-side display template for original vs default vs student counter-render.
-- Printed or digital HCE Audit #3 prompt and rubric.
+- Printed or digital Data Audit #3 prompt and rubric.
 - Timer for gallery walk and quick transitions.
 
 ## Required readings
