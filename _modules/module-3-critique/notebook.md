@@ -34,13 +34,11 @@ Use the embedded notebook below or download a copy to run locally in Jupyter.
 </script>
 
 <div style="overflow: hidden; border: 1px solid #ddd; border-radius: 6px;">
-  <iframe
-    src="{{ site.baseurl }}/assets/notebooks/module-3-notebook.html"
+  <embed
+    src="{{ site.baseurl }}/assets/notebooks/module-3-notebook.pdf"
     width="100%"
     height="960"
+    type="application/pdf"
     style="border: 0;"
-    loading="lazy"
-    sandbox="allow-same-origin allow-scripts"
-    referrerpolicy="no-referrer"
-  ></iframe>
+  >
 </div>
