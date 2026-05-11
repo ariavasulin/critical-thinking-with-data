@@ -21,7 +21,7 @@ By the end of this module, students will be able to:
 
 1. Explain how eugenic theory crossed the Atlantic and became law in California through the Human Betterment Foundation, Charles Davenport, and the 1909 sterilization statute.
 2. Read published summary statistics from a peer-reviewed public-health paper and reconstruct the comparisons it reports.
-3. Compute and interpret **conditional probabilities**: P(sterilized | Latina) read aloud as "the probability of being sterilized given that you were Latina."
+3. Compute and interpret **conditional probabilities**: `P(sterilized | Latina)` read aloud as "the probability of being sterilized given that you were Latina."
 4. Compute and interpret a **rate ratio** (relative risk) and explain in plain English what a rate ratio of 1.59 means.
 5. Apply Karl Pearson's **chi-squared test of independence** using `scipy.stats.chi2_contingency` and read the p-value correctly.
 6. Distinguish *statistical significance* (was the pattern probably not chance?) from *effect size* (how big is the pattern?).

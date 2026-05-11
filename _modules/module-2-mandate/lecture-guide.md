@@ -77,7 +77,7 @@ Students compute conditional probabilities and rate ratios from the sterilizatio
 ### Suggested flow (~50 min)
 
 - **Do now (5 min):** Define in your own words: "What is a conditional probability? Give an everyday example."
-- **Notebook build (25 min):** Step-by-step through conditional probability (P(sterilized | Latina) vs. P(sterilized | non-Latina)), rate ratio computation, and chi-squared test with `scipy.stats.chi2_contingency`. Students produce the contingency table and interpret the p-value.
+- **Notebook build (25 min):** Step-by-step through conditional probability (`P(sterilized | Latina)` vs. `P(sterilized | non-Latina)`), rate ratio computation, and chi-squared test with `scipy.stats.chi2_contingency`. Students produce the contingency table and interpret the p-value.
 - **Pearson inversion moment (10 min):** Name the irony explicitly: "Karl Pearson built the chi-squared test in 1900 to argue for racial hierarchies. You just used his test to measure the racial harm of a eugenic policy. The math is the same tool either way; what changes is who's using it and what they're using it to show."
 - **Pair discussion (8 min):** "The rate ratio is 1.59×. Is that number *statistically significant* (the chi-squared test says yes)? Is it *large*? These are different questions. What's the difference between significance and effect size?"
 - **Wrap (2 min):** "Name one thing the chi-squared test can tell you and one thing it cannot."
