@@ -14,7 +14,7 @@ permalink: /credits/
   2. Upload them to the 'assets/images/team/' directory
 -->
 
-{% assign team = site.staffers | sort: "name" %}
+{% assign team = site.staffers | sort: "role" %}
 <div class="team-grid">
   {% for staffer in team %}
   <div class="team-member">
@@ -82,23 +82,23 @@ permalink: /credits/
 
 The curriculum's framing of justice as the politics of classification draws directly on three readings from UC Berkeley's Data C4AC (Spring 2026):
 
-- **Charles W. Mills**, *The Racial Contract*, Cornell University Press, 1997. *C4AC Week 4*: the political-theory anchor for treating statistical conventions as the racial contract made quantitative.
-- **Khalil Gibran Muhammad**, *The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America*, Harvard University Press, 2010. *C4AC Week 8*: "The Mismeasure of Crime" introduction.
-- **Anna Lauren Hoffmann**, "Terms of Inclusion: Data, Discourse, Violence", *New Media and Society* 23(12), 2021. *C4AC Week 5*: frames measurement itself as a form of harm prior to and independent of any downstream policy.
+- **Charles W. Mills**, [*The Racial Contract*](https://www.cornellpress.cornell.edu/book/9780801484636/the-racial-contract/), Cornell University Press, 1997. *C4AC Week 4*: the political-theory anchor for treating statistical conventions as the racial contract made quantitative.
+- **Khalil Gibran Muhammad**, [*The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America*](https://www.hup.harvard.edu/books/9780674238145), Harvard University Press, 2010. *C4AC Week 8*: "The Mismeasure of Crime" introduction.
+- **Anna Lauren Hoffmann**, ["Terms of Inclusion: Data, Discourse, Violence"](https://doi.org/10.1177/1461444820958725), *New Media and Society* 23(12), 2021. *C4AC Week 5*: frames measurement itself as a form of harm prior to and independent of any downstream policy.
 
 ### Module 1: Measure (Galton)
 
-- **Aubrey Clayton**, *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*, Columbia University Press, 2021. **Required**: Ch. 3 selections on Galton, eugenics, and the birth of inferential statistics.
-- **Prakash Gorroochurn**, "On Galton's Change From 'Reversion' to 'Regression'", *The American Statistician*, 2016. **Required**: close reading of Galton's terminology shift.
-- **James Hanley**, "'Transmuting' Women into Men: Galton's Family Data on Human Stature", *The American Statistician*, 2012. *Recommended*: the 1.08 transmutation in primary-source detail.
+- **Aubrey Clayton**, [*Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*](https://cup.columbia.edu/book/bernoullis-fallacy/9780231199940/), Columbia University Press, 2021. **Required**: Ch. 3 selections on Galton, eugenics, and the birth of inferential statistics.
+- **Prakash Gorroochurn**, ["On Galton's Change From 'Reversion' to 'Regression'"](https://doi.org/10.1080/00031305.2015.1087876), *The American Statistician*, 2016. **Required**: close reading of Galton's terminology shift.
+- **James Hanley**, ["'Transmuting' Women into Men: Galton's Family Data on Human Stature"](https://jhanley.biostat.mcgill.ca/Reprints/Hanley_Article_Galton_Data.pdf), *The American Statistician*, 2004. *Recommended*: the 1.08 transmutation in primary-source detail.
 - **HCE Toolkit: *Performativity***. [data104.org/hce](https://data104.org/hce/).
 
 ### Module 2: Mandate (California Sterilization)
 
-- **Novak NL, Lira N, O'Connor KE, Harlow SD, Kardia SLR, Stern AM**. "Disproportionate Sterilization of Latinos Under California's Eugenic Sterilization Program, 1920–1945", *American Journal of Public Health*, 2018. **Required**: the quantitative foundation and the Spanish-surname proxy methodology.
-- **Stern AM, Novak NL, Lira N, O'Connor KE, Harlow SD, Kardia SLR**. "California's Sterilization Survivors: An Estimate and Call for Redress", *American Journal of Public Health*, 2017. **Required**: the call for restorative justice and the estimate of living survivors.
-- **Natalie Lira, Alexandra Minna Stern**, and colleagues at the [Sterilization and Social Justice Lab](https://www.sterilizationandsocialjustice.org/). *Primary archival access*.
-- **Whatcott, Jess**. *Menace to the Future: A Disability and Queer History of Carceral Eugenics*, Duke University Press, 2024. *Recommended*: Prologue + Intro.
+- **Novak NL, Lira N, O'Connor KE, Harlow SD, Kardia SLR, Stern AM**. ["Disproportionate Sterilization of Latinos Under California's Eugenic Sterilization Program, 1920–1945"](https://doi.org/10.2105/AJPH.2018.304369), *American Journal of Public Health*, 2018. **Required**: the quantitative foundation and the Spanish-surname proxy methodology.
+- **Stern AM, Novak NL, Lira N, O'Connor KE, Harlow SD, Kardia SLR**. ["California's Sterilization Survivors: An Estimate and Call for Redress"](https://doi.org/10.2105/AJPH.2016.303489), *American Journal of Public Health*, 2017. **Required**: the call for restorative justice and the estimate of living survivors.
+- **Natalie Lira, Alexandra Minna Stern**, and colleagues at the [Sterilization and Social Justice Lab](https://www.ssjlab.org/). *Primary archival access*.
+- **Whatcott, Jess**. [*Menace to the Future: A Disability and Queer History of Carceral Eugenics*](https://dukeupress.edu/menace-to-the-future), Duke University Press, 2024. *Recommended*: Prologue + Intro.
 - **HCE Toolkit: *Classification*, *Representation***. [data104.org/hce](https://data104.org/hce/).
 
 ### Module 3: Critique (Du Bois)
