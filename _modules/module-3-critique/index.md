@@ -15,6 +15,19 @@ In 1900 — the same year Karl Pearson was inventing the chi-squared test studen
 
 The module refuses the easy story that "community data" is automatically liberatory: Du Bois made strategic omissions and centered metrics legible to a white European audience. Students sit with that tension with the HCE vocabulary and the technical skill to do so rigorously.
 
+## Learning Objectives
+
+By the end of this module, students will be able to:
+
+1. Explain how Du Bois's "insider citizen researcher" methodology inverted the power dynamic of top-down state data collection that Modules 1 and 2 documented.
+2. Read Du Bois's design choices (color, scale, spiral composition, annotation) as **argument**, not decoration.
+3. Recreate Plate 25 (*Assessed Value of Household and Kitchen Furniture Owned by Georgia Negroes*) in Python using an authenticated Du Bois color palette and an Archimedean spiral layout.
+4. Demonstrate the **Plate 25 Defaults Inversion**: render identical numerical data with matplotlib defaults and articulate how the rhetorical force changes.
+5. Compare Du Bois's counter-narrative to a eugenic propaganda chart from the same era (the Kallikak Family pedigree, 1912) and name the rhetorical moves each makes.
+6. Produce a single counter-visualization of Module 1 or Module 2 data "in the Du Bois style," and defend the design choices in a 100-word artist's statement.
+7. Complete the **Data Audit** (the course's four-question critical reading protocol) on both Du Bois's original plate and your own recreation.
+8. Distinguish data produced **about** a community, **with** a community, and **by** a community, and name what each modality structurally reveals and conceals.
+
 ## Training resources
 
 - **For teachers** → [Lecture Guide](./lecture-guide/)

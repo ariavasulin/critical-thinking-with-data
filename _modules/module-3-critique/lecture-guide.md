@@ -23,13 +23,8 @@ By the end of Module 3, students should be able to:
 
 1. Explain how visual design choices (color, scale, annotation, composition) change an argument without changing the underlying numbers.
 2. Use `matplotlib` intentionally rather than accepting defaults as neutral.
-<<<<<<< HEAD
-3. Apply HCE concepts of Agency and Representation to historical and contemporary data visualizations.
-4. Produce a short, evidence-based critique using the formal four-question HCE Audit protocol.
-=======
 3. Apply HCE concepts of Agency, Narratives, and Representation to historical and contemporary data visualizations.
 4. Produce a short, evidence-based critique using the formal four-question Data Audit protocol.
->>>>>>> 0c2b9d327435bf637e9c7f66dec3921ca47a5bbe
 5. Build a counter-visualization that makes a clear claim about what the original representation obscures.
 
 ## Session 7 — Hook + Setup (Du Bois in 1900)

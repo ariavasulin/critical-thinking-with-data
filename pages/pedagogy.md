@@ -89,7 +89,7 @@ Module 3 opens with the question Module 2 left unanswered: aggregate state data 
 
 ### Bridge 3: Module 2 Data Audit (Cross-Module Synthesis)
 
-The Module 2 Data Audit explicitly requires students to compare the Galton dataset (Module 1) to the sterilization dataset (Module 2) under the concepts of Classification and Performativity. This is the course's single required piece of written cross-module synthesis, and it lives inside the audit rather than as a separate essay.
+The Module 2 Data Audit explicitly requires students to compare the Galton dataset (Module 1) to the sterilization dataset (Module 2) under the concepts of Classification and Representation. This is the course's single required piece of written cross-module synthesis, and it lives inside the audit rather than as a separate essay.
 
 ---
 

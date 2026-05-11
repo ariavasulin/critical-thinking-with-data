@@ -52,7 +52,7 @@ What students will be able to do after this course:
 
 ### See how data embeds power
 
-- Identify at work in any dataset the five Human Contexts and Ethics concepts the course emphasizes: classification, performativity, representation, agency, narratives
+- Identify at work in any dataset the Human Contexts and Ethics concepts the course emphasizes: classification, performativity, representation, agency, narratives
 - Recognize the eugenic origins of standard statistical tools and trace their continuities into contemporary data science
 - Distinguish between a **measurement** (a reading from a calibrated instrument) and a **diagnosis** (a judgment recorded as data)
 - Articulate what aggregate data can reveal about a population and what it structurally cannot show about individuals

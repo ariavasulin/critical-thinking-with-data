@@ -23,7 +23,7 @@ Students submit one response with three parts:
 
 1. **Classification (Module 2 dataset):** One short response (2-4 sentences) identifying how categories are set in the sterilization data and what they exclude.
 2. **Representation (Module 2 dataset):** One short response (2-4 sentences) analyzing how institutional records stand in for people and lived experience.
-3. **Cross-module synthesis (Modules 1 + 2):** One paragraph (5-8 sentences) comparing the Galton dataset and the sterilization dataset using **Classification** and **Performativity**.
+3. **Cross-module synthesis (Modules 1 + 2):** One paragraph (5-8 sentences) comparing the Galton dataset and the sterilization dataset using **Classification** and **Representation**.
 
 ## Required evidence rule
 
@@ -46,9 +46,9 @@ Answer each question in 2-4 sentences unless otherwise noted:
    How do these records stand in for people? What do aggregate counts reveal, and what do they flatten or erase about individual experience, coercion, and survival?
 
 3. **Cross-module synthesis (5-8 sentences)**  
-   Compare Module 1 (Galton heights) and Module 2 (California sterilization data) using **Classification** and **Performativity**.  
+   Compare Module 1 (Galton heights) and Module 2 (California sterilization data) using **Classification** and **Representation**.  
    - How do category choices differ between the two datasets?  
-   - How does each dataset do more than describe (what does each one *perform*)?  
+   - How does each dataset stand in for the people it documents, and what does each one preserve or erase?  
    - What is one key ethical similarity and one key ethical difference across the modules?
 
 ## Scoring rubric
@@ -71,7 +71,7 @@ Each criterion is scored on a 1-4 scale.
 
 ### Cross-module synthesis — one score
 
-- **4 (Exemplary):** Precise comparison across both modules with explicit use of Classification and Performativity, supported by evidence from each notebook.
+- **4 (Exemplary):** Precise comparison across both modules with explicit use of Classification and Representation, supported by evidence from each notebook.
 - **3 (Proficient):** Clear comparison using both concepts with at least one specific piece of evidence from each module.
 - **2 (Developing):** General or one-sided comparison; concepts are named but weakly applied.
 - **1 (Beginning):** Minimal or unsupported comparison.
@@ -103,5 +103,5 @@ Each criterion is scored on a 1-4 scale.
 - I answered all three parts (Classification, Representation, and synthesis).
 - I cited concrete evidence from the Module 2 notebook in both short responses.
 - My synthesis cites evidence from both Module 1 and Module 2.
-- I used both Classification and Performativity explicitly in the synthesis.
+- I used both Classification and Representation explicitly in the synthesis.
 - I made at least one comparative claim (similarity or difference) with evidence.
